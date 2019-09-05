@@ -10,17 +10,13 @@
             {
               "name": "Rules Outdoor",
               "url": "https://www.hockey.be/app/uploads/2019/04/fih-rules-of-hockey-2019-final-5.pdf",
-              "specificLocaleURLs": {
-                  "localeRegionCode": "fr",
-                  "url": "https://www.hockey.be/app/uploads/2019/04/fih-rules-of-hockey-2019-final-5.pdf"
+              "specificLocaleURLs": { "fr": "https://www.hockey.be/app/uploads/2019/04/fih-rules-of-hockey-2019-final-5.pdf"
                 }
             },
             {
               "name": "Changes Outdoor",
               "url": "https://www.hockey.be/nl/nieuws/wijzigingen-spelregels-2019-2020-op-volledig-veld/",
-              "specificLocaleURLs": {
-                  "localeRegionCode": "fr",
-                  "url": "https://www.hockey.be/fr/nouvelle/modification-des-regles-de-jeu-2019-2020-sur-grand-terrain/"
+              "specificLocaleURLs": {"fr": "https://www.hockey.be/fr/nouvelle/modification-des-regles-de-jeu-2019-2020-sur-grand-terrain/"
                 }
             }
           ]
@@ -31,25 +27,19 @@
             {
               "name": "Outdoor U7-U12",
               "url": "https://www.hockey.be/app/uploads/2018/05/Table_Parents-Umpires_-_NL_-_less_U14_-_v1.5.pdf",
-              "specificLocaleURLs": {
-                  "localeRegionCode": "fr",
-                  "url": "https://www.hockey.be/app/uploads/2018/05/Règles-de-jeu-Jeunes-U7-U12-1.pdf"
+              "specificLocaleURLs": {"fr": "https://www.hockey.be/app/uploads/2018/05/Règles-de-jeu-Jeunes-U7-U12-1.pdf"
                 }
             },
             {
               "name": "U7-U12 changes",
               "url": "https://www.hockey.be/nl/nieuws/nieuwe-regels-u7-u12/",
-              "specificLocaleURLs": {
-                  "localeRegionCode": "fr",
-                  "url": "https://www.hockey.be/fr/nouvelle/nouvelles-regles-u7-u12/"
+              "specificLocaleURLs": {"fr": "https://www.hockey.be/fr/nouvelle/nouvelles-regles-u7-u12/"
                 }
             },
             {
               "name": "Outdoor U14-U19",
               "url": "https://www.hockey.be/app/uploads/2018/05/Table_Parents-Umpires_-_NL_-_above_U14_-_V1.2.pdf",
-              "specificLocaleURLs": {
-                  "localeRegionCode": "fr",
-                  "url": "https://www.hockey.be/app/uploads/2018/06/Règles-de-jeu-Jeunes-U14-U19.pdf"
+              "specificLocaleURLs": {"fr": "https://www.hockey.be/app/uploads/2018/06/Règles-de-jeu-Jeunes-U14-U19.pdf"
                 }
             }
           ]
