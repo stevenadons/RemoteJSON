@@ -1,6 +1,51 @@
 {
   "name": "HockeyUpp Hockey Rules",
   "data": [
+     {
+      "countryCapitals": "AUS",
+      "groups": [
+        {
+          "group": "Outdoor",
+          "rules": [
+            {
+              "name": "Outdoor Rules",
+              "url": "http://www.fih.ch/media/13164482/fih-rules-of-hockey-2019-final.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Indoor",
+          "rules": [
+            {
+              "name": "Indoor Rules",
+              "url": "http://www.fih.ch/media/12236439/rules-of-indoor-hockey-2017.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Bluffers Guide",
+          "rules": [
+            {
+              "name": "Bluffer's Guide",
+              "url": "http://www.hockey.org.au/Portals/2/Game%20Development/Hockey%20Australia%20Bluffer's%20Guide%20to%20Hockey.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "More",
+          "rules": [
+            {
+              "name": "More",
+              "url": "http://www.hockey.org.au/rules",
+              "specificLocaleURLs": {}
+            }
+          ]
+        }
+      ]
+    },
     {
       "countryCapitals": "B",
       "groups": [
@@ -8,7 +53,7 @@
           "group": "Outdoor",
           "rules": [
             {
-              "name": "********",
+              "name": "Rules Outdoor",
               "url": "https://www.hockey.be/app/uploads/2019/04/fih-rules-of-hockey-2019-final-5.pdf",
               "specificLocaleURLs": { "fr": "https://www.hockey.be/app/uploads/2019/04/fih-rules-of-hockey-2019-final-5.pdf"
                 }
@@ -42,6 +87,56 @@
               "specificLocaleURLs": {"fr": "https://www.hockey.be/app/uploads/2018/06/Règles-de-jeu-Jeunes-U14-U19.pdf"
                 }
             }
+          ]
+        },
+        {
+          "group": "Indoor",
+          "rules": [
+            {
+              "name": "Rules Indoor",
+              "url": "https://www.hockey.be/app/uploads/2018/06/rules-of-indoor-hockey-2017-1.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "Indoor U7-U10 (VHL)",
+              "url": "https://www.hockey.be/app/uploads/2018/06/2017-007-KBHB-Pictos_NL_HR.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "Indoor U9-U19 (VHL)",
+              "url": "https://www.hockey.be/app/uploads/2019/01/Indoor-Hockey-Spelregels-U9-U19-2019.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Ladies and Gents",
+          "rules": [
+            {
+              "name": "Ladies Rules KBHB",
+              "url": "https://www.hockey.be/app/uploads/2018/06/Ladies_rules_NL_2017-2018.pdf",
+              "specificLocaleURLs": {"fr": "https://www.hockey.be/app/uploads/2018/06/Ladies_rules_FR_2017-2018.pdf"}
+            },
+            {
+              "name": "Gents Rules KBHB",
+              "url": "https://www.hockey.be/app/uploads/2018/06/Gents_rules_NL_2017-2018-1.pdf",
+              "specificLocaleURLs": {"fr": "https://www.hockey.be/app/uploads/2018/06/Gents_rules_FR_2017-2018.pdf"}
+            },
+          ]
+        },
+        {
+          "group": "More",
+          "rules": [
+            {
+              "name": "More (outdoor)",
+              "url": "https://www.hockey.be/nl/categorie/competitie/outdoor-hockey/",
+              "specificLocaleURLs": {"fr": "https://www.hockey.be/fr/categorie/competition/outdoor-hockey/"}
+            },
+            {
+              "name": "More (indoor)",
+              "url": "https://www.hockey.be/nl/categorie/competitie/indoor-hockey/",
+              "specificLocaleURLs": {"fr": "https://www.hockey.be/fr/categorie/competition/indoor-hockey3/"}
+            },
           ]
         }
       ]
