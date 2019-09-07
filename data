@@ -275,6 +275,158 @@
           ]
         }
       ]
+    },
+    
+    {
+      "countryCapitals": "ENG",
+      "groups": [
+        {
+          "group": "Outdoor",
+          "rules": [
+            {
+              "name": "Rules Outdoor",
+              "url": "http://www.fih.ch/media/13164482/fih-rules-of-hockey-2019-final.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Indoor",
+          "rules": [
+            {
+              "name": "Rules Indoor",
+              "url": "http://www.englandhockey.co.uk/core/core_picker/download.asp?id=15072&filetitle=rules%2Dof%2Dindoorhockey%2D2017&log_stat=true",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "In2Hockey",
+          "rules": [
+            {
+              "name": "In2Hockey 6-a-side",
+              "url": "http://in2hockey.englandhockey.co.uk/downloads/In2HockeyRules2015_6ASIDE.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "In2Hockey 7-a-side",
+              "url": "http://in2hockey.englandhockey.co.uk/downloads/In2HockeyRules2015_7ASIDE.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "In2Hockey (more)",
+              "url": "http://in2hockey.englandhockey.co.uk/SitePage.aspx?SitePageID=14",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Regional",
+          "rules": [
+            {
+              "name": "Regional Leagues",
+              "url": "http://www.englandhockey.co.uk/page.asp?section=1332&sectionTitle=Regional+%26+Other+Leagues&l=43",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Senior",
+          "rules": [
+            {
+              "name": "Masters Regional",
+              "url": "http://www.englandhockey.co.uk/core/core_picker/download.asp?id=17383&filetitle=Masters+Regional+Competitions+Regulations+17%2D18&log_stat=true",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "Senior County",
+              "url": "http://www.englandhockey.co.uk/core/core_picker/download.asp?id=17382&filetitle=Regulations+Senior+County+Championships+17%2D18&log_stat=true",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "More",
+          "rules": [
+            {
+              "name": "More",
+              "url": "http://www.englandhockey.co.uk/page.asp?section=1146",
+              "specificLocaleURLs": {}
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "countryCapitals": "NL",
+      "groups": [
+        {
+          "group": "Outdoor",
+          "rules": [
+            {
+              "name": "Rules Outdoor",
+              "url": "https://www.knhb.nl/app/uploads/2019/08/KNHB-Spelreglement-Veldhockey-2019.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Youth",
+          "rules": [
+            {
+              "name": "Teams of 3",
+              "url": "https://www.knhb.nl/kenniscentrum/artikel/spelregels-3-tallen",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "Teams of 6",
+              "url": "https://www.knhb.nl/kenniscentrum/artikel/spelregels-6-tallen",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "Teams of 8",
+              "url": "https://www.knhb.nl/kenniscentrum/artikel/spelregels-8-tallen",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Indoor",
+          "rules": [
+            {
+              "name": "Rules Indoor",
+              "url": "https://www.knhb.nl/app/uploads/2017/01/Spelreglement-Zaalhockey-2016-2017.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "Differences to Outdoor",
+              "url": "https://www.knhb.nl/app/uploads/2018/12/Verschillen-spelregels-veld-en-zaalhockey-2018-2019.docx",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Disability",
+          "rules": [
+            {
+              "name": "Disability Hockey",
+              "url": "https://www.knhb.nl/kenniscentrum/scheidsrechters/alles-over-de-spelregels",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "More",
+          "rules": [
+            {
+              "name": "More",
+              "url": "https://www.knhb.nl/kenniscentrum/scheidsrechters/alles-over-de-spelregels",
+              "specificLocaleURLs": {}
+            }
+          ]
+        }
+      ]
     }
   ]
 }
