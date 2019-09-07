@@ -19,7 +19,7 @@
           "rules": [
             {
               "name": "Indoor Rules",
-              "url": "http://www.fih.ch/media/12236439/rules-of-indoor-hockey-2017.pdf",
+              "url": "http://www.hockey.org.au/Portals/2/Australian%20Championships/2019%20Australian%20Championships/FIH%20Rules%20of%20Indoor%20Hockey%202019.pdf",
               "specificLocaleURLs": {}
             }
           ]
@@ -152,12 +152,12 @@
           "group": "General",
           "rules": [
             {
-              "name": "General Rules (2019)",
+              "name": "General Rules",
               "url": "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/DHB-Feldregeln%202019.pdf",
               "specificLocaleURLs": {}
             },
             {
-              "name": "Changes (01.04.2019)",
+              "name": "Changes",
               "url": "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/Regeländerungen%20Feld%202018-19%20RR.pdf",
               "specificLocaleURLs": {}
             },
@@ -172,12 +172,12 @@
           "group": "Indoor",
           "rules": [
             {
-              "name": "Indoor Rules (2017/2018)",
+              "name": "Indoor Rules",
               "url": "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/DHB-Hallenregeln%202017-18(1).pdf",
               "specificLocaleURLs": {}
             },
             {
-              "name": "Indoor Changes (2017/2018)",
+              "name": "Indoor Changes",
               "url": "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/Regelaenderungen%20Halle%202017-18.pdf",
               "specificLocaleURLs": {}
             },
@@ -202,7 +202,7 @@
           "group": "Youth",
           "rules": [
             {
-              "name": "Youth (2017/2018)",
+              "name": "Youth",
               "url": "https://beta.hockey.de/download.php?data[fileid]=3w5wvi6bmv4lol6qgrd4t69eke1vrqak",
               "specificLocaleURLs": {}
             },
@@ -223,12 +223,12 @@
           "group": "Outdoor",
           "rules": [
             {
-              "name": "Rules Outdoor 2019",
+              "name": "Rules Outdoor",
               "url": "https://www.rfeh.es/rfehbackend/normativas/4359dc7466c78678f6945d9002a79787.pdf",
               "specificLocaleURLs": {}
             },
             {
-              "name": "Changes Outdoor 2019",
+              "name": "Changes Outdoor",
               "url": "https://www.rfeh.es/rfehbackend/normativas/a2d8fe154fb84fee85a2d7bb478c8d1a.pdf",
               "specificLocaleURLs": {}
             }
@@ -238,12 +238,12 @@
           "group": "Indoor",
           "rules": [
             {
-              "name": "Rules Indoor 2017",
+              "name": "Rules Indoor",
               "url": "https://www.rfeh.es/rfehbackend/normativas/f45a8d01063a18e519cc2431a504d549.pdf",
               "specificLocaleURLs": {}
             },
             {
-              "name": "Changes Indoor 2019",
+              "name": "Changes Indoor",
               "url": "https://www.rfeh.es/rfehbackend/normativas/8c7d20a4ef88ec00db45aeabe01d69a6.pdf",
               "specificLocaleURLs": {}
             }
@@ -336,11 +336,6 @@
             {
               "name": "Masters Regional",
               "url": "http://www.englandhockey.co.uk/core/core_picker/download.asp?id=17383&filetitle=Masters+Regional+Competitions+Regulations+17%2D18&log_stat=true",
-              "specificLocaleURLs": {}
-            },
-            {
-              "name": "Senior County",
-              "url": "http://www.englandhockey.co.uk/core/core_picker/download.asp?id=17382&filetitle=Regulations+Senior+County+Championships+17%2D18&log_stat=true",
               "specificLocaleURLs": {}
             }
           ]
