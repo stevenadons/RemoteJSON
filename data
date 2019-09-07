@@ -46,6 +46,8 @@
         }
       ]
     },
+    
+    
     {
       "countryCapitals": "B",
       "groups": [
@@ -121,7 +123,7 @@
               "name": "Gents Rules KBHB",
               "url": "https://www.hockey.be/app/uploads/2018/06/Gents_rules_NL_2017-2018-1.pdf",
               "specificLocaleURLs": {"fr": "https://www.hockey.be/app/uploads/2018/06/Gents_rules_FR_2017-2018.pdf"}
-            },
+            }
           ]
         },
         {
@@ -136,7 +138,140 @@
               "name": "More (indoor)",
               "url": "https://www.hockey.be/nl/categorie/competitie/indoor-hockey/",
               "specificLocaleURLs": {"fr": "https://www.hockey.be/fr/categorie/competition/indoor-hockey3/"}
+            }
+          ]
+        }
+      ]
+    },
+    
+    
+    {
+      "countryCapitals": "D",
+      "groups": [
+        {
+          "group": "General",
+          "rules": [
+            {
+              "name": "General Rules (2019)",
+              "url": "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/DHB-Feldregeln%202019.pdf",
+              "specificLocaleURLs": {}
             },
+            {
+              "name": "Changes (01.04.2019)",
+              "url": "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/Regeländerungen%20Feld%202018-19%20RR.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "More (outdoor)",
+              "url": "http://www.deutscher-hockey-bund.de/VVI-web/default.asp?lokal=&innen=/VVI-web/Schiedsrichter/SR-Download.asp&auswahl=3",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Indoor",
+          "rules": [
+            {
+              "name": "Indoor Rules (2017/2018)",
+              "url": "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/DHB-Hallenregeln%202017-18(1).pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "Indoor Changes (2017/2018)",
+              "url": "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/Regelaenderungen%20Halle%202017-18.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "More (indoor)",
+              "url": "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/SR-Download.asp?lokal=DHB&auswahl=4",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "International",
+          "rules": [
+            {
+              "name": "International Rules",
+              "url": "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/SR-Download.asp?lokal=DHB&auswahl=6",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Youth",
+          "rules": [
+            {
+              "name": "Youth (2017/2018)",
+              "url": "https://beta.hockey.de/download.php?data[fileid]=3w5wvi6bmv4lol6qgrd4t69eke1vrqak",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "Recommendations U8-U12",
+              "url": "https://beta.hockey.de/download.php?data[fileid]=73nxrarubzm9odd83ih0al7jknsuigwf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
+      "countryCapitals": "E",
+      "groups": [
+        {
+          "group": "Outdoor",
+          "rules": [
+            {
+              "name": "Rules Outdoor 2019",
+              "url": "https://www.rfeh.es/rfehbackend/normativas/4359dc7466c78678f6945d9002a79787.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "Changes Outdoor 2019",
+              "url": "https://www.rfeh.es/rfehbackend/normativas/a2d8fe154fb84fee85a2d7bb478c8d1a.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Indoor",
+          "rules": [
+            {
+              "name": "Rules Indoor 2017",
+              "url": "https://www.rfeh.es/rfehbackend/normativas/f45a8d01063a18e519cc2431a504d549.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "Changes Indoor 2019",
+              "url": "https://www.rfeh.es/rfehbackend/normativas/8c7d20a4ef88ec00db45aeabe01d69a6.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Senior",
+          "rules": [
+            {
+              "name": "España Master",
+              "url": "https://www.rfeh.es/rfehbackend/normativas/8a7facde0918a074e1bdfb0fcfda5a32.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "name": "Mamis & Papis",
+              "url": "https://www.rfeh.es/rfehbackend/normativas/b38ff998ba77d5bb454acf6b71e38731.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "More",
+          "rules": [
+            {
+              "name": "More",
+              "url": "https://www.rfeh.es/normativas/",
+              "specificLocaleURLs": {}
+            }
           ]
         }
       ]
