@@ -8,8 +8,8 @@
           "group": "Outdoor",
           "rules": [
             {
-              "name": "Rules Outdoor",
-              "url": "https://www.google.com",
+              "name": "********",
+              "url": "https://www.hockey.be/app/uploads/2019/04/fih-rules-of-hockey-2019-final-5.pdf",
               "specificLocaleURLs": { "fr": "https://www.hockey.be/app/uploads/2019/04/fih-rules-of-hockey-2019-final-5.pdf"
                 }
             },
