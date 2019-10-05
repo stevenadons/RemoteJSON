@@ -1,11 +1,11 @@
 {
    "appName": "HockeyUpp",
    "messageTitle": {
-      "en": "Message",
-      "nl": "Mededeling"
+      "en": "",
+      "nl": ""
    },
    "messageText": {
-      "en": "Recently we had a bug in the app. As a result the stopwatch did not count down while the app was inactive. We apologize for any inconvenience this may have caused. As from version 1.9 the bug is fixed.",
-      "nl": "Recent hadden we een bug in de app waardoor de stopwatch niet aftelde wanneer de app niet actief was. Excuses voor de tijdelijke hinder. Vanaf versie 1.9 is de bug gefixt."
+      "en": "",
+      "nl": ""
    }
 }
