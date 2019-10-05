@@ -1,0 +1,11 @@
+{
+   "appName": "HockeyUpp",
+   "messageTitle": {
+      "en": "Warning",
+      "nl": "Waarschuwing"
+   },
+   "messageText": {
+      "en": "Currently there is a bug in the app. As a result, the stopwatch does not count down while the app is not active. We will update the app in the coming period. Sorry for the inconvenience caused.",
+      "nl": "Er is momenteel een bug waardoor de stopwatch niet aftelt wanneer de app niet actief is. We gaan de app spoedig updaten. Excuses voor de tijdelijke hinder."
+   }
+}
