@@ -7,5 +7,6 @@
    "messageText": {
       "en": "We noticed in version 1.8 the stopwatch did not always count down when the phone was in standby. We apologise for any inconvenience this may have caused. As from version 1.9 the bug has been fixed.",
       "nl": "In versie 1.8 hebben we gemerkt dat de stopwatch niet altijd aftelde met de iPhone in standby. Excuses voor de tijdelijke hinder. Vanaf versie 1.9 is de bug gefixt."
-   }
+   },
+   "maximumShows": 3
 }
