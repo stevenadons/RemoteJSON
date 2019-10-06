@@ -5,7 +5,7 @@
       "nl": "Mededeling"
    },
    "messageText": {
-      "en": "Recently we had a bug in the app. As a result the stopwatch did not always count down while the app was inactive. We apologise for any inconvenience this may have caused. As from version 1.9 the bug has been fixed.",
-      "nl": "Recent hadden we een bug in de app waardoor de stopwatch niet aftelde wanneer de app niet actief was. Excuses voor de tijdelijke hinder. Vanaf versie 1.9 is de bug gefixt."
+      "en": "We noticed in version 1.8 the stopwatch did not always count down when the phone is in standby. We apologise for any inconvenience this may have caused. As from version 1.9 the bug has been fixed.",
+      "nl": "In versie 1.8 hebben we gemerkt dat de stopwatch niet altijd aftelde met de iPhone in standby. Excuses voor de tijdelijke hinder. Vanaf versie 1.9 is de bug gefixt."
    }
 }
