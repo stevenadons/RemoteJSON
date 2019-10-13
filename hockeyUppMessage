@@ -1,12 +1,12 @@
 {
    "appName": "HockeyUpp",
    "messageTitle": {
-      "en": "Message",
-      "nl": "Mededeling"
+      "en": "",
+      "nl": ""
    },
    "messageText": {
-      "en": "We noticed in some occasions the stopwatch would not count down while the phone was in standby. We apologise for any inconvenience this may have caused. As from version 1.9 the bug has been fixed.",
-      "nl": "We hebben gemerkt dat de stopwatch in uitzonderlijke gevallen niet aftelde wanneer de iPhone in standby was. Onze excuses voor de tijdelijke hinder. Vanaf versie 1.9 is de bug gefixt."
+      "en": "",
+      "nl": ""
    },
    "maxViews": 1
 }
