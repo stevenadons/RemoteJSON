@@ -2,12 +2,12 @@
 {
    "appName": "ArbiTraders",
    "messageTitle": {
-      "en": "",
+      "en": "This is a test",
       "nl": ""
    },
    "messageText": {
-      "en": "",
+      "en": "This is a test message",
       "nl": ""
    },
-   "maxViews": 1
+   "maxViews": 10
 }
