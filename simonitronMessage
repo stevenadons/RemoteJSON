@@ -1,12 +1,12 @@
 {
    "appName": "Simonitron",
    "messageTitle": {
-      "en": "TEST",
+      "en": "",
       "nl": ""
    },
    "messageText": {
-      "en": "This is a test",
+      "en": "",
       "nl": ""
    },
-   "maxViews": 10
+   "maxViews": 1
 }
