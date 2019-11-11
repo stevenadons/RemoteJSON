@@ -2,11 +2,11 @@
 {
    "appName": "ArbiTraders",
    "messageTitle": {
-      "en": "",
+      "en": "Reach Out",
       "nl": ""
    },
    "messageText": {
-      "en": "",
+      "en": "We are trying hard to meet your expectations. Should you have any remark please contact us. You'll find a link under Settings > Actions and feedback.",
       "nl": ""
    },
    "maxViews": 10
