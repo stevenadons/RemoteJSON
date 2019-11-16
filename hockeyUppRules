@@ -126,23 +126,23 @@
                  "en": "Rules Indoor",
                  "nl": "Zaalhockey"
               },
-              "url": "https://www.hockey.be/app/uploads/2018/06/rules-of-indoor-hockey-2017-1.pdf",
-              "specificLocaleURLs": {}
+              "url": "https://hockey.be/wp-content/uploads/2018/06/rules-of-indoor-hockey-2017-1.pdf",
+              "specificLocaleURLs": {"fr" : "https://hockey.be/wp-content/uploads/2019/01/Indoor-Hockey-Règles-de-jeu-U9_U19-2019.pdf"}
             },
             {
               "names": {
                  "en": "Indoor U7-U10",
                  "nl": "Zaalhockey U7-U10"
               },
-              "url": "https://www.hockey.be/app/uploads/2018/06/2017-007-KBHB-Pictos_NL_HR.pdf",
-              "specificLocaleURLs": {}
+              "url": "https://hockey.be/wp-content/uploads/2018/06/2017-007-KBHB-Pictos_NL_HR.pdf",
+              "specificLocaleURLs": {"fr": "https://hockey.be/wp-content/uploads/2018/06/2017-007-ARBH-Pictos_FR_HR.pdf"}
             },
             {
               "names": {
                  "en": "Indoor U9-U19",
                  "nl": "Zaalhockey U9-U19"
               },
-              "url": "https://www.hockey.be/app/uploads/2019/01/Indoor-Hockey-Spelregels-U9-U19-2019.pdf",
+              "url": "https://hockey.be/wp-content/uploads/2019/01/Indoor-Hockey-Spelregels-U9-U19-2019.pdf",
               "specificLocaleURLs": {}
             }
           ]
@@ -184,8 +184,8 @@
                  "en": "More (indoor)",
                  "nl": "Meer (zaalhockey)"
               },
-              "url": "https://www.hockey.be/nl/categorie/competitie/indoor-hockey/",
-              "specificLocaleURLs": {"fr": "https://www.hockey.be/fr/categorie/competition/indoor-hockey3/"}
+              "url": "https://hockey.be/nl/competitie/indoor-hockey/spelregels/",
+              "specificLocaleURLs": {"fr": "https://hockey.be/fr/competitions/indoor-hockey/regles-du-jeu/"}
             }
           ]
         }
