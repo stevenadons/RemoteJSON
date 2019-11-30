@@ -1,0 +1,12 @@
+{
+   "appName": "Gift Linker",
+   "messageTitle": {
+      "en": "This is a test title",
+      "nl": ""
+   },
+   "messageText": {
+      "en": "This is a test message.",
+      "nl": ""
+   },
+   "maxViews": 100
+}
