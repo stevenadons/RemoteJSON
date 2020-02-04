@@ -12,7 +12,7 @@
                  "en": "Outdoor Rules",
                  "nl": "Veldhockey"
               },
-              "url": "http://www.fih.ch/media/13164482/fih-rules-of-hockey-2019-final.pdf",
+              "url": "http://fih.ch/media/13164482/fih-rules-of-hockey-2019-final-website-11112019-typo-edits.pdf",
               "specificLocaleURLs": {}
             }
           ]
@@ -25,7 +25,7 @@
                  "en": "Indoor Rules",
                  "nl": "Zaalhockey"
               },
-              "url": "http://www.hockey.org.au/Portals/2/Australian%20Championships/2019%20Australian%20Championships/FIH%20Rules%20of%20Indoor%20Hockey%202019.pdf",
+              "url": "http://fih.ch/media/12236439/fih-rules-of-indoor-hockey-2019.pdf",
               "specificLocaleURLs": {}
             }
           ]
@@ -38,7 +38,7 @@
                  "en": "Bluffer's Guide",
                  "nl": "Bluffer's Guide"
               },
-              "url": "http://www.hockey.org.au/Portals/2/Game%20Development/Hockey%20Australia%20Bluffer's%20Guide%20to%20Hockey.pdf",
+              "url": "http://hockey.org.au/wp-content/uploads/2019/10/Hockey-Australia-Bluffers-Guide-to-Hockey.pdf",
               "specificLocaleURLs": {}
             }
           ]
@@ -51,7 +51,7 @@
                  "en": "More",
                  "nl": "Meer"
               },
-              "url": "http://www.hockey.org.au/rules",
+              "url": "https://hockey.org.au/rules-of-hockey/",
               "specificLocaleURLs": {}
             }
           ]
@@ -336,6 +336,19 @@
           ]
         },
         {
+          "group": "Youth",
+          "rules": [
+            {
+              "names": {
+                 "en": "Youth Championship",
+                 "nl": "Jeugd"
+              },
+              "url": "https://www.rfeh.es/rfehbackend/normativas/eb1c16e25851d4e49bf98f9be96afc0e.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
           "group": "Senior",
           "rules": [
             {
@@ -383,7 +396,7 @@
                  "en": "Rules Outdoor",
                  "nl": "Veldhockey"
               },
-              "url": "http://www.fih.ch/media/13164482/fih-rules-of-hockey-2019-final.pdf",
+              "url": "http://fih.ch/media/13164482/fih-rules-of-hockey-2019-final-website-11112019-typo-edits.pdf",
               "specificLocaleURLs": {}
             }
           ]
