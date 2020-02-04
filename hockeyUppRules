@@ -415,35 +415,6 @@
           ]
         },
         {
-          "group": "In2Hockey",
-          "rules": [
-            {
-              "names": {
-                 "en": "In2Hockey 6-a-side",
-                 "nl": "In2Hockey (6 spelers)"
-              },
-              "url": "http://in2hockey.englandhockey.co.uk/downloads/In2HockeyRules2015_6ASIDE.pdf",
-              "specificLocaleURLs": {}
-            },
-            {
-              "names": {
-                 "en": "In2Hockey 7-a-side",
-                 "nl": "In2Hockey (7 spelers)"
-              },
-              "url": "http://in2hockey.englandhockey.co.uk/downloads/In2HockeyRules2015_7ASIDE.pdf",
-              "specificLocaleURLs": {}
-            },
-            {
-              "names": {
-                 "en": "In2Hockey (more)",
-                 "nl": "In2Hockey (meer)"
-              },
-              "url": "http://in2hockey.englandhockey.co.uk/SitePage.aspx?SitePageID=14",
-              "specificLocaleURLs": {}
-            }
-          ]
-        },
-        {
           "group": "Regional",
           "rules": [
             {
