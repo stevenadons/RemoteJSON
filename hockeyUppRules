@@ -549,6 +549,78 @@
           ]
         }
       ]
+    },
+    
+    {
+      "countryCapitals": "RA",
+      "groups": [
+        {
+          "group": "Outdoor",
+          "rules": [
+            {
+              "names": {
+                 "en": "Rules Outdoor",
+                 "nl": "Veldhockey"
+              },
+              "url": "https://www.cahockey.org.ar/media/reglamentos/Reglamento%20Hockey%20CAH.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Indoor",
+          "rules": [
+            {
+              "names": {
+                 "en": "Rules Indoor",
+                 "nl": "Zaalhockey"
+              },
+              "url": "https://www.cahockey.org.ar/media/reglamentos/Reglamento%20pista%20CAH%202019_OK.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Hockey5",
+          "rules": [
+            {
+              "names": {
+                 "en": "Hockey5",
+                 "nl": "Hockey5"
+              },
+              "url": "https://www.cahockey.org.ar/media/reglamentos/reglamentohockey5.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Championships",
+          "rules": [
+            {
+              "names": {
+                 "en": "Championships",
+                 "nl": "Championships"
+              },
+              "url": "https://www.cahockey.org.ar/media/reglamentos/CIRCULAR%2012-2019-REGLAMENTO%20%20GENERAL%20DE%20CAMPEONATOS%202019%20CAH_1-.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "More",
+          "rules": [
+            {
+              "names": {
+                 "en": "More",
+                 "nl": "Meer"
+              },
+              "url": "https://www.cahockey.org.ar/reglamentos",
+              "specificLocaleURLs": {}
+            }
+          ]
+        }
+      ]
     }
+    
   ]
 }
