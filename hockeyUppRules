@@ -618,6 +618,59 @@
     },
     
     {
+      "countryCapitals": "NZ",
+      "groups": [
+        {
+          "group": "General",
+          "rules": [
+            {
+              "names": {
+                 "en": "FIH General Rules",
+                 "nl": "Algemene regels FIH"
+              },
+              "url": "http://www.fih.ch/inside-fih/our-official-documents/rules-of-hockey/",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Secondary Schools",
+          "rules": [
+            {
+              "names": {
+                 "en": "Secondary Schools",
+                 "nl": "Secundaire scholen"
+              },
+              "url": "http://hockeynz.co.nz/wp-content/uploads/2019/06/2019-National-Secondary-School-Tournament-Rules.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "names": {
+                 "en": "Changes 2019",
+                 "nl": "Wijzigingen 2019"
+              },
+              "url": "http://hockeynz.co.nz/wp-content/uploads/2019/06/Key-Changes-2019-National-Secondary-School-Tournament-Rules.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "More",
+          "rules": [
+            {
+              "names": {
+                 "en": "More",
+                 "nl": "Meer"
+              },
+              "url": "http://hockeynz.co.nz/about-us/resources/tournaments/",
+              "specificLocaleURLs": {}
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
       "countryCapitals": "RA",
       "groups": [
         {
