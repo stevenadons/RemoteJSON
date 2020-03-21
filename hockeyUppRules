@@ -457,6 +457,72 @@
     },
     
     {
+      "countryCapitals": "IND",
+      "groups": [
+        {
+          "group": "General",
+          "rules": [
+            {
+              "names": {
+                 "en": "FIH General Rules",
+                 "nl": "Algemene regels FIH"
+              },
+              "url": "https://www.hockeyindia.org/static-assets/waf-images/UploadFile/9a/d2/41/4532bc6d-22a5-47cf-ab86-78238c6dce57.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Hockey5s",
+          "rules": [
+            {
+              "names": {
+                 "en": "Hockey5s",
+                 "nl": "Hockey5s"
+              },
+              "url": "https://www.hockeyindia.org/static-assets/waf-images/UploadFile/9f/5b/ec/81d59422-34a4-43f3-9642-6a788770be97.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Tournaments",
+          "rules": [
+            {
+              "names": {
+                 "en": "FIH Tournament Regulations",
+                 "nl": "Regels Toernooien FIH"
+              },
+              "url": "https://www.hockeyindia.org/static-assets/waf-images/UploadFile/8b/4e/00/bfd9e99d-d038-4de8-8681-a272ec7edffe.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "names": {
+                 "en": "Variations India",
+                 "nl": "Verschillen Indië"
+              },
+              "url": "https://www.hockeyindia.org/static-assets/waf-images/UploadFile/4f/81/ad/270b0c26-3e7f-4158-aa8a-a687c57c9c75.pdf",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "More",
+          "rules": [
+            {
+              "names": {
+                 "en": "More",
+                 "nl": "Meer"
+              },
+              "url": "https://www.hockeyindia.org/technical/rules-and-regulations",
+              "specificLocaleURLs": {}
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
       "countryCapitals": "NL",
       "groups": [
         {
