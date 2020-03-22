@@ -457,6 +457,93 @@
     },
     
     {
+      "countryCapitals": "F",
+      "groups": [
+        {
+          "group": "General",
+          "rules": [
+            {
+              "names": {
+                 "en": "General Outdoor Rules",
+                 "nl": "Veldhockey"
+              },
+              "url": "https://www.ffhockey.org/regles-du-jeu/488-gazon-regles-jeu-edition-2017-2018-ffh/file.html",
+              "specificLocaleURLs": {}
+            },
+            {
+              "names": {
+                 "en": "General - Changes 2019",
+                 "nl": "Wijzigingen 2019"
+              },
+              "url": "https://www.ffhockey.org/regles-du-jeu/695-note-relative-aux-regles-du-jeu-gazon-fih-2019/file.html",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Indoor",
+          "rules": [
+            {
+              "names": {
+                 "en": "Indoor",
+                 "nl": "Zaalhockey"
+              },
+              "url": "https://www.ffhockey.org/regles-du-jeu/677-regles-jeu-salle-edition-2017-2018/file.html",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Hockey5",
+          "rules": [
+            {
+              "names": {
+                 "en": "Hockey5 FFH",
+                 "nl": "Hockey5 FFH"
+              },
+              "url": "https://www.ffhockey.org/regles-du-jeu/89-regles-du-jeu-hockey5-version-francaise/file.html",
+              "specificLocaleURLs": {}
+            },
+            {
+              "names": {
+                 "en": "Hockey5 FIH",
+                 "nl": "Hockey5 FIH"
+              },
+              "url": "https://www.ffhockey.org/regles-du-jeu/88-regles-du-jeu-hockey5-version-officielle-fih/file.html",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "Teams of 8",
+          "rules": [
+            {
+              "names": {
+                 "en": "Teams of 8",
+                 "nl": "8-tallen"
+              },
+              "url": "https://www.ffhockey.org/regles-du-jeu/87-regles-du-jeu-de-hockey-sur-gazon-a-8/file.html",
+              "specificLocaleURLs": {}
+            }
+          ]
+        },
+        {
+          "group": "More",
+          "rules": [
+            {
+              "names": {
+                 "en": "More",
+                 "nl": "Meer"
+              },
+              "url": "https://www.ffhockey.org/regles-du-jeu.html",
+              "specificLocaleURLs": {}
+            }
+          ]
+        }
+      ]
+    },
+    
+    {
       "countryCapitals": "IND",
       "groups": [
         {
