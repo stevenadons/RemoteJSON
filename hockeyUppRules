@@ -165,6 +165,14 @@
               },
               "url": "https://hockey.be/wp-content/uploads/2019/11/Gents-rules-NL-2019-2020.pdf",
               "specificLocaleURLs": {"fr": "https://hockey.be/wp-content/uploads/2019/11/Gents-rules-FR-2019-2020.pdf"}
+            },
+            {
+              "names": {
+                 "en": "College League",
+                 "nl": "College League"
+              },
+              "url": "https://hockey.be/wp-content/uploads/2020/06/College-League-7x7-NL.pdf",
+              "specificLocaleURLs": {"fr": "https://hockey.be/wp-content/uploads/2020/06/College-League-7x7-FR.pdf"}
             }
           ]
         },
