@@ -344,19 +344,6 @@
           ]
         },
         {
-          "group": "Youth",
-          "rules": [
-            {
-              "names": {
-                 "en": "Youth Championship",
-                 "nl": "Jeugd"
-              },
-              "url": "https://www.rfeh.es/rfehbackend/normativas/eb1c16e25851d4e49bf98f9be96afc0e.pdf",
-              "specificLocaleURLs": {}
-            }
-          ]
-        },
-        {
           "group": "Senior",
           "rules": [
             {
