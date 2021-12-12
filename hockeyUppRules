@@ -71,8 +71,8 @@
                  "en": "Rules Outdoor",
                  "nl": "Veldhockey"
               },
-              "url": "https://hockey.be/wp-content/uploads/2019/08/2019-2020-BEL-Outdoor-Rules-NL.pdf",
-              "specificLocaleURLs": { "fr": "https://hockey.be/wp-content/uploads/2019/08/2019-2020-BEL-Outdoor-Rules-FR-1.pdf"
+              "url": "https://hockey.be/wp-content/uploads/2021/10/Spelregels-Outdoor-2021-22-3.pdf",
+              "specificLocaleURLs": { "fr": "https://hockey.be/wp-content/uploads/2021/10/Regles-de-jeu-Outdoor-2021-22-5.pdf"
                 }
             }
           ]
@@ -85,17 +85,8 @@
                  "en": "Outdoor U7-U12",
                  "nl": "Veldhockey U7-U12"
               },
-              "url": "https://hockey.be/wp-content/uploads/2020/09/Regels-U7-U12-1.pdf",
-              "specificLocaleURLs": {"fr": "https://hockey.be/wp-content/uploads/2020/09/Regles-U7-U12-2.pdf"
-                }
-            },
-            {
-              "names": {
-                 "en": "Changes U7-U12",
-                 "nl": "Wijzigingen U7-U12"
-              },
-              "url": "https://hockey.be/wp-content/uploads/2020/06/Aanpassingen-U7-U12.pdf",
-              "specificLocaleURLs": {"fr": "https://hockey.be/wp-content/uploads/2020/06/Adaptations-U7-U12.pdf"
+              "url": "https://hockey.be/wp-content/uploads/2021/08/Table-Parents-Umpires-NL-less-U14-v1.1052495.pdf",
+              "specificLocaleURLs": {"fr": "https://hockey.be/wp-content/uploads/2021/08/Regles-petits-terrains-21-22-U7-U12.pdf"
                 }
             },
             {
@@ -103,7 +94,7 @@
                  "en": "Outdoor U14-U19",
                  "nl": "Veldhockey U14-U19"
               },
-              "url": "https://hockey.be/wp-content/uploads/2018/05/Table_Parents-Umpires_-_NL_-_above_U14_-_V1.2.pdf",
+              "url": "https://hockey.be/wp-content/uploads/2021/08/Regels-U14-U19.pdf",
               "specificLocaleURLs": {"fr": "https://hockey.be/wp-content/uploads/2020/04/U14-U19-1.pdf"
                 }
             }
@@ -117,8 +108,8 @@
                  "en": "Rules Indoor",
                  "nl": "Zaalhockey"
               },
-              "url": "https://hockey.be/wp-content/uploads/2019/12/2019-2020-BEL-Indoor-Rules-NL.pdf",
-              "specificLocaleURLs": {"fr": "https://hockey.be/wp-content/uploads/2019/12/2019-2020-BEL-Indoor-Rules-FR.pdf"}
+              "url": "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf",
+              "specificLocaleURLs": {"fr": "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-FR.pdf"}
             },
             {
               "names": {
@@ -564,7 +555,7 @@
                  "en": "Rules Outdoor",
                  "nl": "Veldhockey"
               },
-              "url": "https://www.knhb.nl/app/uploads/2021/01/Spelreglement-veldhockey-vanaf-1-augustus-2020-update-januari-21.pdf",
+              "url": "https://www.knhb.nl/app/uploads/2021/11/Spelreglement-vanaf-1-augustus-2021.pdf",
               "specificLocaleURLs": {}
             }
           ]
@@ -606,15 +597,23 @@
                  "en": "Rules Indoor",
                  "nl": "Zaalhockey"
               },
-              "url": "https://www.knhb.nl/app/uploads/2019/11/ZAALREGLEMENT_2019_DEF.pdf",
+              "url": "https://www.knhb.nl/app/uploads/2021/11/Spelreglement-zaalhockey-vanaf-1-november-2021-1.pdf",
               "specificLocaleURLs": {}
             },
             {
               "names": {
-                 "en": "Differences",
-                 "nl": "Verschillen"
+                 "en": "Differences Indoor",
+                 "nl": "Verschillen Zaal"
               },
               "url": "https://www.knhb.nl/app/uploads/2019/11/Verschillen-spelregels-veld-en-zaalhockey-2019-2020.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "names": {
+                 "en": "Indoor Youth",
+                 "nl": "Jongste jeugd"
+              },
+              "url": "https://www.knhb.nl/app/uploads/2021/11/211119-Zaalhockeyregels-Jongste-Jeugd-vanaf-1-december-2021.pdf",
               "specificLocaleURLs": {}
             }
           ]
@@ -625,7 +624,7 @@
             {
               "names": {
                  "en": "Disability Hockey",
-                 "nl": "Aangepast hockey"
+                 "nl": "Aangepaste hockey"
               },
               "url": "https://www.knhb.nl/kenniscentrum/scheidsrechters/alles-over-de-spelregels",
               "specificLocaleURLs": {}
