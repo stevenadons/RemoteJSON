@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "1984",
+    "author": "George Orwell"
+  },
+  {
+    "id": 2,
+    "name": "Animal Farm",
+    "author": "George Orwell"
+  },
+  {
+    "id": 3,
+    "name": "Brave New World",
+    "author": "Aldous Huxley"
+  }
+]
