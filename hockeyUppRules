@@ -555,7 +555,7 @@
                  "en": "Rules Outdoor",
                  "nl": "Veldhockey"
               },
-              "url": "https://www.knhb.nl/app/uploads/2022/08/Spelreglement-vanaf-1-augustus-2022.pdf",
+              "url": "https://www.knhb.nl/app/uploads/2023/08/Spelreglement-veld-vanaf-1-augustus-2023.pdf",
               "specificLocaleURLs": {}
             }
           ]
@@ -565,26 +565,26 @@
           "rules": [
             {
               "names": {
-                 "en": "Teams of 3",
-                 "nl": "3-tallen"
+                 "en": "U8",
+                 "nl": "O8"
               },
-              "url": "https://www.knhb.nl/app/uploads/2017/04/Spelregels-3-tallen-1-september-2020.pdf",
+              "url": "https://www.knhb.nl/app/uploads/2023/06/Speelregels-en-veldindeling-O8_062023-v3.pdf",
               "specificLocaleURLs": {}
             },
             {
               "names": {
-                 "en": "Teams of 6",
-                 "nl": "6-tallen"
+                 "en": "U9",
+                 "nl": "O9"
               },
-              "url": "https://www.knhb.nl/app/uploads/2017/04/Spelregels-6-tallen-1-september-2020.pdf",
+              "url": "https://www.knhb.nl/app/uploads/2022/07/Speelregels-en-veldindeling-O9_062023.pdf",
               "specificLocaleURLs": {}
             },
             {
               "names": {
-                 "en": "Teams of 8",
-                 "nl": "8-tallen"
+                 "en": "U10",
+                 "nl": "O10"
               },
-              "url": "https://www.knhb.nl/app/uploads/2017/04/Spelregels-8-tallen-1-september-2020.pdf",
+              "url": "https://www.knhb.nl/app/uploads/2023/06/Speelregels-en-veldindeling-O10_062023-v2.pdf",
               "specificLocaleURLs": {}
             }
           ]
@@ -619,14 +619,38 @@
           ]
         },
         {
-          "group": "Disability",
+          "group": "ParaHockey",
           "rules": [
             {
               "names": {
-                 "en": "Disability Hockey",
-                 "nl": "Aangepaste hockey"
+                 "en": "G Hockey",
+                 "nl": "G-hockey"
               },
-              "url": "https://www.knhb.nl/kenniscentrum/scheidsrechters/alles-over-de-spelregels",
+              "url": "https://www.knhb.nl/app/uploads/2023/09/Spelregels-seizoen-2023-2024-1-1.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "names": {
+                 "en": "LG Hockey",
+                 "nl": "LG-hockey"
+              },
+              "url": "https://www.knhb.nl/app/uploads/2023/09/Spelregels-seizoen-LG-2023-2024.pdf",
+              "specificLocaleURLs": {}
+            },
+            {
+              "names": {
+                 "en": "E Hockey",
+                 "nl": "E-hockey"
+              },
+              "url": "https://www.knhb.nl/app/uploads/2023/03/Wedstrijdreglement-E-Hockey_2023.docx",
+              "specificLocaleURLs": {}
+            },
+            {
+              "names": {
+                 "en": "H Hockey",
+                 "nl": "H-hockey"
+              },
+              "url": "https://www.knhb.nl/app/uploads/2020/07/Wedstrijdreglement-H-Hockey-2020-2021.pdf",
               "specificLocaleURLs": {}
             }
           ]
