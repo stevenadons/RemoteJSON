@@ -2,11 +2,11 @@
 {
    "appName": "ArbiTraders",
    "messageTitle": {
-      "en": "Arbitrage Optimization",
+      "en": "",
       "nl": ""
    },
    "messageText": {
-      "en": "As from now, buy or sell transactions for which absolutely no volume has been recorded over the last 24 hours, are filtered out.",
+      "en": "",
       "nl": ""
    },
    "maxViews": 2
