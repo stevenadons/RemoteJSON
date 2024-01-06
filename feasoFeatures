@@ -2,7 +2,11 @@
    "appName": "Feaso",
    "features": [
       { 
-         "featureName": "createCustomRents",
+         "featureName": "customRents",
+         "status": "paywall"
+      },
+      { 
+         "featureName": "customSales",
          "status": "paywall"
       }
    ]
