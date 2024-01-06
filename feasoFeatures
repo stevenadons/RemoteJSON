@@ -3,7 +3,7 @@
    "features": [
       { 
          "featureName": "createCustomRents",
-         "status": "paywall"}
+         "status": "paywall"
       }
    ]
 }
