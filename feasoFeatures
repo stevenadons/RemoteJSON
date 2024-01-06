@@ -8,6 +8,10 @@
       { 
          "featureName": "customSales",
          "status": "paywall"
+      },
+      { 
+         "featureName": "duplicateProject",
+         "status": "paywall"
       }
    ]
 }
