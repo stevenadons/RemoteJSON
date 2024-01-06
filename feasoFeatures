@@ -12,6 +12,10 @@
       { 
          "featureName": "duplicateProject",
          "status": "paywall"
+      },
+      { 
+         "featureName": "sharePDF",
+         "status": "paywall"
       }
    ]
 }
