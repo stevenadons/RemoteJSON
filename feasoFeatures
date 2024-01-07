@@ -1,21 +1,30 @@
 {
    "appName": "Feaso",
    "features": [
-      { 
+      {
          "featureName": "customRents",
-         "status": "free"
+         "status": "free",
+         "maxNumber": 0
       },
-      { 
+      {
          "featureName": "customSales",
-         "status": "free"
+         "status": "free",
+         "maxNumber": 0
       },
-      { 
+      {
          "featureName": "duplicateProject",
-         "status": "paywall"
+         "status": "free",
+         "maxNumber": 0
       },
-      { 
+      {
          "featureName": "sharePDF",
-         "status": "free"
+         "status": "free",
+         "maxNumber": 0
+      },
+      {
+         "featureName": "sizeItemsInProject",
+         "status": "free",
+         "maxNumber": 5
       }
    ]
 }
