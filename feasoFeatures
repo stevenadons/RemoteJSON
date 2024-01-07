@@ -3,11 +3,11 @@
    "features": [
       { 
          "featureName": "customRents",
-         "status": "paywall"
+         "status": "free"
       },
       { 
          "featureName": "customSales",
-         "status": "paywall"
+         "status": "free"
       },
       { 
          "featureName": "duplicateProject",
@@ -15,7 +15,7 @@
       },
       { 
          "featureName": "sharePDF",
-         "status": "paywall"
+         "status": "free"
       }
    ]
 }
