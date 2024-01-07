@@ -3,28 +3,44 @@
    "features": [
       {
          "featureName": "customRents",
-         "status": "free",
-         "maxNumber": 0
+         "maxNumber": 0,
+         "status": "free"
       },
       {
          "featureName": "customSales",
-         "status": "free",
-         "maxNumber": 0
+         "maxNumber": 0,
+         "status": "free"
       },
       {
          "featureName": "duplicateProject",
-         "status": "free",
-         "maxNumber": 0
+         "maxNumber": 0,
+         "status": "free"
       },
       {
          "featureName": "sharePDF",
-         "status": "free",
-         "maxNumber": 0
+         "maxNumber": 0,
+         "status": "free"
+      },
+      {
+         "featureName": "numberOfProjects",
+         "maxNumber": 1,
+         "status": "free"
       },
       {
          "featureName": "numberOfSizeItemsInProject",
-         "status": "free",
-         "maxNumber": 5
+         "maxNumber": 5,
+         "status": "free"
+      },
+      {
+         "featureName": "numberOfCostItemsInProject",
+         "maxNumber": 5,
+         "status": "free"
+      },
+      {
+         "featureName": "numberOfCapexItemsInProject",
+         "maxNumber": 10,
+         "status": "free"
       }
    ]
 }
+
