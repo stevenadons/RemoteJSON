@@ -22,7 +22,7 @@
          "maxNumber": 0
       },
       {
-         "featureName": "sizeItemsInProject",
+         "featureName": "numberOfSizeItemsInProject",
          "status": "free",
          "maxNumber": 5
       }
