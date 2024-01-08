@@ -6,7 +6,7 @@
    },
    "messageText": {
       "en": "Currently there might be problems in fetching the data. If so, try to limit the number of coins and exchanges you follow.",
-      "nl": Momenteel zijn er problemen met de datacommunicatie. Verminderen van het aantal gevolgde munten en beurzen is in dat geval aangeraden."
+      "nl": "Momenteel zijn er problemen met de datacommunicatie. Verminderen van het aantal gevolgde munten en beurzen is in dat geval aangeraden."
    },
    "maxViews": 2
 }
