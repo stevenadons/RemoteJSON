@@ -1,6 +1,6 @@
 {
    "appName": "Feaso",
-   "messageTitle": "MessageTitle",
-   "messageText": "MessageText",
-   "maxViews": 200
+   "messageTitle": "",
+   "messageText": "",
+   "maxViews": 2
 }
