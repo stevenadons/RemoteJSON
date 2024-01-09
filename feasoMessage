@@ -1,6 +1,6 @@
 {
    "appName": "Feaso",
-   "messageTitle": "",
-   "messageText": "",
+   "messageTitle": "Warning",
+   "messageText": "This is a test message.",
    "maxViews": 2
 }
