@@ -1,46 +1,93 @@
 {
-   "appName": "Feaso",
-   "features": [
-      {
-         "featureName": "customRents",
-         "maxNumber": 0,
-         "status": "free"
-      },
-      {
-         "featureName": "customSales",
-         "maxNumber": 0,
-         "status": "free"
-      },
-      {
-         "featureName": "duplicateProject",
-         "maxNumber": 0,
-         "status": "free"
-      },
-      {
-         "featureName": "sharePDF",
-         "maxNumber": 0,
-         "status": "free"
-      },
-      {
-         "featureName": "numberOfProjects",
-         "maxNumber": 1,
-         "status": "free"
-      },
-      {
-         "featureName": "numberOfSizeItemsInProject",
-         "maxNumber": 5,
-         "status": "free"
-      },
-      {
-         "featureName": "numberOfCostItemsInProject",
-         "maxNumber": 5,
-         "status": "free"
-      },
-      {
-         "featureName": "numberOfCapexItemsInProject",
-         "maxNumber": 10,
-         "status": "free"
-      }
-   ]
+    "appName": "Feaso",
+    "features": [
+        {
+            "featureName": "newRent",
+            "maxNumber": 0,
+            "status": "free",
+            "userMessage": {
+                "showMessage": false,
+                "messageTitle": "New Rent Item",
+                "messageBody": "Feel free to add additional rents (not related to building items) for the time being.\n\nPlease be aware in the future this might be part of a paid premium package.",
+                "maxNumberShowing": 1
+            }
+        },
+        {
+            "featureName": "newSale",
+            "maxNumber": 0,
+            "status": "free",
+            "userMessage": {
+                "showMessage": false,
+                "messageTitle": "New Sales Proceeds",
+                "messageBody": "Feel free to add additional sales proceeds (not related to building items) for the time being.\n\nPlease be aware in the future this might be part of a paid premium package.",
+                "maxNumberShowing": 1
+            }
+        },
+        {
+            "featureName": "duplicateProject",
+            "maxNumber": 0,
+            "status": "free",
+            "userMessage": {
+                "showMessage": true,
+                "messageTitle": "Duplicate Project",
+                "messageBody": "Duplicating projects is currently available for free.\n\nPlease be aware in the future this might be part of a paid premium package.",
+                "maxNumberShowing": 1
+            }
+        },
+        {
+            "featureName": "sharePDF",
+            "maxNumber": 0,
+            "status": "free",
+            "userMessage": {
+                "showMessage": true,
+                "messageTitle": "Share PDF",
+                "messageBody": "Sharing PDFs is currently available for free.\n\nPlease be aware in the future this might be part of a paid premium package.",
+                "maxNumberShowing": 1
+            }
+        },
+        {
+            "featureName": "newProject",
+            "maxNumber": 1,
+            "status": "free",
+            "userMessage": {
+                "showMessage": true,
+                "messageTitle": "New Project",
+                "messageBody": "Currently there is no limit on the number of projects.\n\nIn the future an unlimited amount can be part of a paid premium package.",
+                "maxNumberShowing": 1
+            }
+        },
+        {
+            "featureName": "newSizeItem",
+            "maxNumber": 5,
+            "status": "free",
+            "userMessage": {
+                "showMessage": false,
+                "messageTitle": "New Building Item",
+                "messageBody": "Currently there is no limit on the number of building items in a project.\n\nIn the future an unlimited amount can be part of a paid premium package.",
+                "maxNumberShowing": 1
+            }
+        },
+        {
+            "featureName": "newCostItem",
+            "maxNumber": 5,
+            "status": "free",
+            "userMessage": {
+                "showMessage": false,
+                "messageTitle": "New Expense Item",
+                "messageBody": "Currently there is no limit on the number of expense items in a project.\n\nIn the future an unlimited amount can be part of a paid premium package.",
+                "maxNumberShowing": 1
+            }
+        },
+        {
+            "featureName": "newCapexItem",
+            "maxNumber": 10,
+            "status": "free",
+            "userMessage": {
+                "showMessage": false,
+                "messageTitle": "New Development Cost Item",
+                "messageBody": "Currently there is no limit on the number of development cost items in a project.\n\nIn the future an unlimited amount can be part of a paid premium package.",
+                "maxNumberShowing": 1
+            }
+        }
+    ]
 }
-
