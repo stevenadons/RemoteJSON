@@ -8,7 +8,7 @@
             "userMessage": {
                 "showMessage": false,
                 "messageTitle": "New Rent Item",
-                "messageBody": "Feel free to add additional rents (not related to building items) for the time being.\n\nPlease be aware in the future this might be part of a paid premium package.",
+                "messageBody": "Feel free to add additional rents (not related to building elements) for the time being.\n\nPlease be aware in the future this might be part of a paid premium package.",
                 "maxNumberShowing": 1
             }
         },
@@ -19,7 +19,7 @@
             "userMessage": {
                 "showMessage": false,
                 "messageTitle": "New Sales Proceeds",
-                "messageBody": "Feel free to add additional sales proceeds (not related to building items) for the time being.\n\nPlease be aware in the future this might be part of a paid premium package.",
+                "messageBody": "Feel free to add additional sales proceeds (not related to building elements) for the time being.\n\nPlease be aware in the future this might be part of a paid premium package.",
                 "maxNumberShowing": 1
             }
         },
@@ -62,8 +62,8 @@
             "status": "free",
             "userMessage": {
                 "showMessage": false,
-                "messageTitle": "New Building Item",
-                "messageBody": "Currently there is no limit on the number of building items in a project.\n\nIn the future an unlimited amount can be part of a paid premium package.",
+                "messageTitle": "New Building Element",
+                "messageBody": "Currently there is no limit on the number of building elements in a project.\n\nIn the future an unlimited amount can be part of a paid premium package.",
                 "maxNumberShowing": 1
             }
         },
