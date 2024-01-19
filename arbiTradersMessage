@@ -1,12 +1,12 @@
 {
    "appName": "ArbiTraders",
    "messageTitle": {
-      "en": "Data transfer issues",
-      "nl": "Datacommunicatie"
+      "en": "Current issues",
+      "nl": "Ontvolgen"
    },
    "messageText": {
-      "en": "Currently there might be problems in fetching the data. If so, try to limit the number of coins and exchanges you follow.",
-      "nl": "Momenteel zijn er problemen met de datacommunicatie. Verminderen van het aantal gevolgde munten en beurzen is in dat geval aangeraden."
+      "en": "Currently there might be problems in unfollowing coins. We are working on getting an update to the App Store to fix the issue.",
+      "nl": "Momenteel kunnen er problemen zijn bij het ontvolgen van bepaalde munten. We werken aan een update in de App Store."
    },
    "maxViews": 2
 }
