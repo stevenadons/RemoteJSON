@@ -1,12 +1,12 @@
 {
    "appName": "ArbiTraders",
    "messageTitle": {
-      "en": "Current issues",
-      "nl": "Ontvolgen"
+      "en": "",
+      "nl": ""
    },
    "messageText": {
-      "en": "Currently there might be problems in unfollowing coins. We are working on getting an update to the App Store to fix the issue.",
-      "nl": "Momenteel kunnen er problemen zijn bij het ontvolgen van bepaalde munten. We werken aan een update in de App Store."
+      "en": "",
+      "nl": ""
    },
    "maxViews": 2
 }
