@@ -30,7 +30,7 @@
             "userMessage": {
                 "showMessage": true,
                 "messageTitle": "Duplicate Project",
-                "messageBody": "Duplicating projects is currently available for free.\n\nPlease be aware in the future this might be part of a paid premium package.",
+                "messageBody": "Duplicating projects is available for free for the time being.\n\nIn the future this will be part of a paid premium package.",
                 "maxNumberShowing": 1
             }
         },
@@ -41,7 +41,7 @@
             "userMessage": {
                 "showMessage": true,
                 "messageTitle": "Share PDF",
-                "messageBody": "Sharing PDFs is currently available for free.\n\nPlease be aware in the future this might be part of a paid premium package.",
+                "messageBody": "Sharing PDFs is for free for the time being.\n\nIn the future this will be part of a paid premium package.",
                 "maxNumberShowing": 1
             }
         },
@@ -52,7 +52,7 @@
             "userMessage": {
                 "showMessage": true,
                 "messageTitle": "New Project",
-                "messageBody": "Currently there is no limit on the number of projects.\n\nIn the future an unlimited amount can be part of a paid premium package.",
+                "messageBody": "Currently there is no limit on the number of projects.\n\nIn the future an unlimited amount could be part of a paid premium package.",
                 "maxNumberShowing": 1
             }
         },
