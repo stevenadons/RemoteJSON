@@ -88,6 +88,17 @@
                 "messageBody": "Currently there is no limit on the number of development cost items in a project.\n\nIn the future an unlimited amount can be part of a paid premium package.",
                 "maxNumberShowing": 1
             }
+        },
+        {
+            "featureName": "smartSuggestions",
+            "maxNumber": 0,
+            "status": "free",
+            "userMessage": {
+                "showMessage": false,
+                "messageTitle": "Smart Suggestions",
+                "messageBody": "There is no limit on this feature, please enjoy.",
+                "maxNumberShowing": 1
+            }
         }
     ]
 }
