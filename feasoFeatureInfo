@@ -1,0 +1,74 @@
+[
+    {
+        "feature": "duplicateProject",
+        "status": "free",
+        "message" : {
+            "title": "Duplicate Project",
+            "body": "Duplicating projects is currently available for free.\n\nPlease be aware in the future this might be part of a paid premium package."
+        }
+    },
+    {
+        "feature": "newCapexItem",
+        "status": "free",
+        "message" : {
+            "title": "New Development Cost Item",
+            "body": "Currently there is no limit on the number of development cost items in a project.\n\nIn the future an unlimited amount can be part of a paid premium package."
+        }
+    },
+    {
+        "feature": "newCostItem",
+        "status": "free",
+        "message" : {
+            "title": "New Expense Item",
+            "body": "Currently there is no limit on the number of expense items in a project.\n\nIn the future an unlimited amount can be part of a paid premium package."
+        }
+    },
+    {
+        "feature": "newProject",
+        "status": "free",
+        "message" : {
+            "title": "New Project",
+            "body": "Currently you can create multiple projects without limitation.\n\nIn the future an unlimited amount can be part of a paid premium package."
+        }
+    },
+    {
+        "feature": "newRent",
+        "status": "free",
+        "message" : {
+            "title": "New Rent Item",
+            "body": "Feel free to add additional rents (not related to building elements) for the time being.\n\nPlease be aware in the future this might be part of a paid premium package."
+        }
+    },
+    {
+        "feature": "newSale",
+        "status": "free",
+        "message" : {
+            "title": "New Sales Proceeds",
+            "body": "Feel free to add additional sales proceeds (not related to building elements) for the time being.\n\nPlease be aware in the future this might be part of a paid premium package."
+        }
+    },
+    {
+        "feature": "newSizeItem",
+        "status": "free",
+        "message" : {
+            "title": "New Building Element",
+            "body": "Currently there is no limit on the number of building elements in a project.\n\nIn the future an unlimited amount can be part of a paid premium package."
+        }
+    },
+    {
+        "feature": "sharePDF",
+        "status": "free",
+        "message" : {
+            "title": "Share PDF",
+            "body": "Sharing PDFs is currently available for free.\n\nPlease be aware in the future this might be part of a paid premium package."
+        }
+    },
+    {
+        "feature": "smartSuggestions",
+        "status": "free",
+        "message" : {
+            "title": "Smart Suggestions",
+            "body": "There is no limit on this feature, please enjoy."
+        }
+    }
+]
