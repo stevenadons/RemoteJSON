@@ -12,7 +12,7 @@
                  "en": "Outdoor Rules",
                  "nl": "Veldhockey"
               },
-              "url": "http://www.fih.ch/media/13350505/fih-rules-of-hockey-jan2021-update.pdf",
+              "url": "https://www.fih.hockey/static-assets/pdf/fih-rules-of-hockey-June23-update.pdf",
               "specificLocaleURLs": {}
             }
           ]
@@ -51,7 +51,7 @@
                  "en": "More",
                  "nl": "Meer"
               },
-              "url": "https://hockey.org.au/rules-of-hockey/",
+              "url": "https://hockey.org.au",
               "specificLocaleURLs": {}
             }
           ]
@@ -71,7 +71,7 @@
                  "en": "Rules Outdoor",
                  "nl": "Veldhockey"
               },
-              "url": "https://hockey.be/wp-content/uploads/2021/10/Spelregels-Outdoor-2021-22-3.pdf",
+              "url": "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf",
               "specificLocaleURLs": { "fr": "https://hockey.be/wp-content/uploads/2021/10/Regles-de-jeu-Outdoor-2021-22-5.pdf"
                 }
             }
