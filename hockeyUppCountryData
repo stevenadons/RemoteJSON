@@ -1,0 +1,12 @@
+[
+    {
+        "carCode": "B",
+        "localeRegionCode": "BE",
+        "name": "Belgium"
+    },
+    {
+        "carCode": "NL",
+        "localeRegionCode": "NL",
+        "name": "Netherlands"
+    }
+]
