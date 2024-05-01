@@ -1,12 +1,72 @@
 [
     {
-        "carCode": "B",
+        "carCode": "BBB",
         "localeRegionCode": "BE",
-        "name": "Belgium"
+        "name": "Belgium",
+        "typicalTimeStructures" : [
+                {
+                    "usecase" : "U7-U8",
+                    "timeStructure": {
+                        "numberOfPeriods": 2,
+                        "minutesPerPeriod": 20
+                    }
+                },
+                {
+                    "usecase" : "U9-U10-U11-U12",
+                    "timeStructure": {
+                        "numberOfPeriods": 2,
+                        "minutesPerPeriod": 25
+                    }
+                },
+                {
+                    "usecase" : "U14-Ladies-Gents",
+                    "timeStructure": {
+                        "numberOfPeriods": 2,
+                        "minutesPerPeriod": 30
+                    }
+                },
+                {
+                    "usecase" : "General",
+                    "timeStructure": {
+                        "numberOfPeriods": 4,
+                        "minutesPerPeriod": 17.5
+                    }
+                }
+        ]
     },
     {
         "carCode": "NL",
         "localeRegionCode": "NL",
-        "name": "Netherlands"
+        "name": "Netherlands",
+        "typicalTimeStructures" : [
+                {
+                    "usecase" : "Teams of 3",
+                    "timeStructure": {
+                        "numberOfPeriods": 2,
+                        "minutesPerPeriod": 20
+                    }
+                },
+                {
+                    "usecase" : "Teams of 6",
+                    "timeStructure": {
+                        "numberOfPeriods": 2,
+                        "minutesPerPeriod": 25
+                    }
+                },
+                {
+                    "usecase" : "Teams of 8",
+                    "timeStructure": {
+                        "numberOfPeriods": 2,
+                        "minutesPerPeriod": 30
+                    }
+                },
+                {
+                    "usecase" : "General",
+                    "timeStructure": {
+                        "numberOfPeriods": 4,
+                        "minutesPerPeriod": 17.5
+                    }
+                }
+        ]
     }
 ]
