@@ -3,34 +3,26 @@
         "carCode": "BBB",
         "localeRegionCode": "BE",
         "name": "Belgium",
-        "typicalTimeStructures" : [
+        "timeStructures" : [
                 {
                     "usecase" : "U7-U8",
-                    "timeStructure": {
-                        "numberOfPeriods": 2,
-                        "minutesPerPeriod": 20
-                    }
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 20
                 },
                 {
                     "usecase" : "U9-U10-U11-U12",
-                    "timeStructure": {
-                        "numberOfPeriods": 2,
-                        "minutesPerPeriod": 25
-                    }
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 25
                 },
                 {
                     "usecase" : "U14-Ladies-Gents",
-                    "timeStructure": {
-                        "numberOfPeriods": 2,
-                        "minutesPerPeriod": 30
-                    }
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 30
                 },
                 {
                     "usecase" : "General",
-                    "timeStructure": {
-                        "numberOfPeriods": 4,
-                        "minutesPerPeriod": 17.5
-                    }
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 17.5
                 }
         ]
     },
@@ -38,34 +30,26 @@
         "carCode": "NL",
         "localeRegionCode": "NL",
         "name": "Netherlands",
-        "typicalTimeStructures" : [
+        "timeStructures" : [
                 {
                     "usecase" : "Teams of 3",
-                    "timeStructure": {
-                        "numberOfPeriods": 2,
-                        "minutesPerPeriod": 20
-                    }
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 20
                 },
                 {
                     "usecase" : "Teams of 6",
-                    "timeStructure": {
-                        "numberOfPeriods": 2,
-                        "minutesPerPeriod": 25
-                    }
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 25
                 },
                 {
                     "usecase" : "Teams of 8",
-                    "timeStructure": {
-                        "numberOfPeriods": 2,
-                        "minutesPerPeriod": 30
-                    }
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 30
                 },
                 {
                     "usecase" : "General",
-                    "timeStructure": {
-                        "numberOfPeriods": 4,
-                        "minutesPerPeriod": 17.5
-                    }
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 17.5
                 }
         ]
     }
