@@ -1,7 +1,7 @@
 [
     {
         "carCode": "BBB",
-        "localeRegionCode": "BE",
+        "regionCode": "BE",
         "name": "Belgium",
         "timeStructures" : [
                 {
@@ -28,7 +28,7 @@
     },
     {
         "carCode": "NL",
-        "localeRegionCode": "NL",
+        "regionCode": "NL",
         "name": "Netherlands",
         "timeStructures" : [
                 {
