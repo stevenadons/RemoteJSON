@@ -1,6 +1,23 @@
 [
     {
-        "carCode": "BBB",
+        "carCode": "AUS",
+        "regionCode": "AU",
+        "name": "Australia",
+        "timeStructures" : [
+                {
+                    "usecase" : "Indoor",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 10
+                },
+                {
+                    "usecase" : "Outdoor",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 17.5
+                }
+        ]
+    },
+    {
+        "carCode": "B",
         "regionCode": "BE",
         "name": "Belgium",
         "timeStructures" : [
@@ -23,6 +40,136 @@
                     "usecase" : "General",
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
+                }
+        ]
+    },
+    {
+        "carCode": "D",
+        "regionCode": "DE",
+        "name": "Germany",
+        "timeStructures" : [
+                {
+                    "usecase" : "Indoor",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 10
+                },
+                {
+                    "usecase" : "Youth",
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 25
+                },
+                {
+                    "usecase" : "General",
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 30
+                },
+                {
+                    "usecase" : "International",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 17.5
+                }
+        ]
+    },
+    {
+        "carCode": "E",
+        "regionCode": "ES",
+        "name": "Spain",
+        "timeStructures" : [
+                {
+                    "usecase" : "Indoor",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 10
+                },
+                {
+                    "usecase" : "Master & M/P",
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 25
+                },
+                {
+                    "usecase" : "Outdoor",
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 30
+                },
+                {
+                    "usecase" : "Outdoor",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 17.5
+                }
+        ]
+    },
+    {
+        "carCode": "ENG",
+        "regionCode": "GB",
+        "name": "England",
+        "timeStructures" : [
+                {
+                    "usecase" : "In2Hockey",
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 15
+                },
+                {
+                    "usecase" : "Indoor",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 10
+                },
+                {
+                    "usecase" : "Outdoor",
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 30
+                },
+                {
+                    "usecase" : "Outdoor",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 17.5
+                }
+        ]
+    },
+    {
+        "carCode": "F",
+        "regionCode": "FR",
+        "name": "France",
+        "timeStructures" : [
+                {
+                    "usecase" : "General",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 15
+                },
+                {
+                    "usecase" : "Indoor",
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 20
+                },
+                {
+                    "usecase" : "Hockey5",
+                    "numberOfPeriods": 3,
+                    "minutesPerPeriod": 15
+                },
+                {
+                    "usecase" : "Hockey5s",
+                    "numberOfPeriods": 2,
+                    "minutesPerPeriod": 25
+                }
+        ]
+    },
+    {
+        "carCode": "IND",
+        "regionCode": "IN",
+        "name": "India",
+        "timeStructures" : [
+                {
+                    "usecase" : "General",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 15
+                },
+                {
+                    "usecase" : "Hockey5s",
+                    "numberOfPeriods": 3,
+                    "minutesPerPeriod": 10
+                },
+                {
+                    "usecase" : "Tournaments",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 15
                 }
         ]
     },
@@ -50,6 +197,50 @@
                     "usecase" : "General",
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
+                }
+        ]
+    },
+    {
+        "carCode": "NZ",
+        "regionCode": "NZ",
+        "name": "New Zealand",
+        "timeStructures" : [
+                {
+                    "usecase" : "General",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 15
+                },
+                {
+                    "usecase" : "Schools",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 15
+                }
+        ]
+    },
+    {
+        "carCode": "RA",
+        "regionCode": "AR",
+        "name": "Argentina",
+        "timeStructures" : [
+                {
+                    "usecase" : "General",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 15
+                },
+                {
+                    "usecase" : "Indoor",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 10
+                },
+                {
+                    "usecase" : "Hockey5s",
+                    "numberOfPeriods": 3,
+                    "minutesPerPeriod": 15
+                },
+                {
+                    "usecase" : "Championships",
+                    "numberOfPeriods": 4,
+                    "minutesPerPeriod": 15
                 }
         ]
     }
