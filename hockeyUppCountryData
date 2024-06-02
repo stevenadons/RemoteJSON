@@ -14,6 +14,16 @@
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
                 }
+        ],
+        "rules" : [
+            {
+                "name": "Outdoor",
+                "url" : "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf"
+            },
+            {
+                "name": "Indoor",
+                "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
+            }
         ]
     },
     {
@@ -41,6 +51,16 @@
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
                 }
+        ],
+        "rules" : [
+            {
+                "name": "Outdoor",
+                "url" : "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf"
+            },
+            {
+                "name": "Indoor",
+                "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
+            }
         ]
     },
     {
@@ -68,6 +88,16 @@
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
                 }
+        ],
+        "rules" : [
+            {
+                "name": "Outdoor",
+                "url" : "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf"
+            },
+            {
+                "name": "Indoor",
+                "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
+            }
         ]
     },
     {
@@ -95,6 +125,16 @@
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
                 }
+        ],
+        "rules" : [
+            {
+                "name": "Outdoor",
+                "url" : "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf"
+            },
+            {
+                "name": "Indoor",
+                "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
+            }
         ]
     },
     {
@@ -122,6 +162,16 @@
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
                 }
+        ],
+        "rules" : [
+            {
+                "name": "Outdoor",
+                "url" : "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf"
+            },
+            {
+                "name": "Indoor",
+                "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
+            }
         ]
     },
     {
@@ -149,6 +199,16 @@
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 25
                 }
+        ],
+        "rules" : [
+            {
+                "name": "Outdoor",
+                "url" : "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf"
+            },
+            {
+                "name": "Indoor",
+                "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
+            }
         ]
     },
     {
@@ -171,6 +231,16 @@
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 15
                 }
+        ],
+        "rules" : [
+            {
+                "name": "Outdoor",
+                "url" : "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf"
+            },
+            {
+                "name": "Indoor",
+                "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
+            }
         ]
     },
     {
@@ -198,6 +268,16 @@
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
                 }
+        ],
+        "rules" : [
+            {
+                "name": "Outdoor",
+                "url" : "https://www.knhb.nl/app/uploads/2023/08/Spelreglement-veld-vanaf-1-augustus-2023.pdf"
+            },
+            {
+                "name": "Indoor",
+                "url" : "https://www.knhb.nl/app/uploads/2022/11/Spelreglement-Zaalhockey-vanaf-1-november-2022-1.pdf"
+            }
         ]
     },
     {
@@ -215,6 +295,16 @@
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 15
                 }
+        ],
+        "rules" : [
+            {
+                "name": "Outdoor",
+                "url" : "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf"
+            },
+            {
+                "name": "Indoor",
+                "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
+            }
         ]
     },
     {
@@ -242,6 +332,16 @@
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 15
                 }
+        ],
+        "rules" : [
+            {
+                "name": "Outdoor",
+                "url" : "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf"
+            },
+            {
+                "name": "Indoor",
+                "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
+            }
         ]
     }
 ]
