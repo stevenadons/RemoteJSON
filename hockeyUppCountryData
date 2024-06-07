@@ -66,7 +66,7 @@
                 "url" : "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf"
             },
             {
-                "name": "Youth",
+                "name": "Outdoor <U14",
                 "url" : "https://hockey.be/wp-content/uploads/2021/08/Table-Parents-Umpires-NL-less-U14-v1.1052495.pdf"
             },
             {
@@ -74,16 +74,8 @@
                 "url" : "https://hockey.be/wp-content/uploads/2021/08/Regels-U14-U19.pdf"
             },
             {
-                "name": "Indoor",
-                "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
-            },
-            {
-                "name": "Indoor U9-U12",
-                "url" : "https://hockey.be/wp-content/uploads/2019/12/Indoor-Spelregels-U9-U12-1.pdf"
-            },
-            {
-                "name": "Indoor U14-U19",
-                "url" : "https://hockey.be/wp-content/uploads/2019/11/Indoor-Spelregels-U14-U19.pdf"
+                "name": "G-hockey",
+                "url" : "https://hockey.be/wp-content/uploads/2022/02/6-vs-6.pdf"
             },
             {
                 "name": "Ladies",
@@ -96,6 +88,18 @@
             {
                 "name": "More Outdoor",
                 "url" : "https://hockey.be/nl/competitie/outdoor-hockey/spelregels-1/"
+            },
+            {
+                "name": "Indoor",
+                "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
+            },
+            {
+                "name": "Indoor U9-U12",
+                "url" : "https://hockey.be/wp-content/uploads/2019/12/Indoor-Spelregels-U9-U12-1.pdf"
+            },
+            {
+                "name": "Indoor U14-U19",
+                "url" : "https://hockey.be/wp-content/uploads/2019/11/Indoor-Spelregels-U14-U19.pdf"
             },
             {
                 "name": "More Indoor",
@@ -139,28 +143,20 @@
                 "url" : "https://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/regelaenderungen_feld_RR_2021-22.pdf"
             },
             {
+                "name": "International Rules",
+                "url" : "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/SR-Download.asp?lokal=DHB&auswahl=6"
+            },
+            {
+                "name": "More Outdoor",
+                "url" : "http://www.deutscher-hockey-bund.de/VVI-web/default.asp?lokal=&innen=/VVI-web/Schiedsrichter/SR-Download.asp&auswahl=3"
+            },
+            {
                 "name": "Indoor",
                 "url" : "https://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/DHB-Hallenregeln%202021-22v2.pdf"
             },
             {
                 "name": "Indoor Changes",
                 "url" : "https://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/Regelaenderungen%20Halle%202021-22.pdf"
-            },
-            {
-                "name": "International Rules",
-                "url" : "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/SR-Download.asp?lokal=DHB&auswahl=6"
-            },
-            {
-                "name": "Youth",
-                "url" : "https://beta.hockey.de/download.php?data[fileid]=3w5wvi6bmv4lol6qgrd4t69eke1vrqak"
-            },
-            {
-                "name": "Recommendations U8-U12",
-                "url" : "https://beta.hockey.de/download.php?data[fileid]=73nxrarubzm9odd83ih0al7jknsuigwf"
-            },
-            {
-                "name": "More Outdoor",
-                "url" : "http://www.deutscher-hockey-bund.de/VVI-web/default.asp?lokal=&innen=/VVI-web/Schiedsrichter/SR-Download.asp&auswahl=3"
             },
             {
                 "name": "More Indoor",
@@ -197,27 +193,23 @@
         "rules" : [
             {
                 "name": "Outdoor",
-                "url" : "https://www.rfeh.es/rfehbackend/normativas/4359dc7466c78678f6945d9002a79787.pdf"
+                "url" : "https://rfeh.es/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=67&wpfd_file_id=11980&token=&preview=1"
             },
             {
-                "name": "Outdoor Changes",
-                "url" : "https://www.rfeh.es/rfehbackend/normativas/a2d8fe154fb84fee85a2d7bb478c8d1a.pdf"
+                "name": "Outdoor Changes 2023-2024",
+                "url" : "https://rfeh.es/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=67&wpfd_file_id=13010&token=&preview=1"
             },
             {
                 "name": "Mamis & Papis",
-                "url" : "https://www.rfeh.es/rfehbackend/normativas/6181108ced568a23c5da6d661aeb7b98.pdf"
+                "url" : "https://rfeh.es/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=67&wpfd_file_id=11985&token=&preview=1"
             },
             {
                 "name": "Indoor",
-                "url" : "https://www.rfeh.es/rfehbackend/normativas/a8b5664bd12b50cc2ef738a74e4d8cb4.pdf"
-            },
-            {
-                "name": "Indoor Changes",
-                "url" : "https://www.rfeh.es/rfehbackend/normativas/551c5a78436f7685cf634144a19ae92c.pdf"
+                "url" : "https://rfeh.es/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=67&wpfd_file_id=11983&token=&preview=1"
             },
             {
                 "name": "More",
-                "url" : "https://www.rfeh.es/normativas/"
+                "url" : "https://rfeh.es/documentacion-portal-de-transparencia/"
             }
         ]
     },
@@ -287,23 +279,23 @@
         "rules" : [
             {
                 "name": "Outdoor",
-                "url" : "https://www.ffhockey.org/statuts-reglements/1121-re-gles-du-jeu-gazon-actualisees-novembre-2020/file.html"
+                "url" : "https://www.ffhockey.org/docman-liste-hierarchique/cnja/1293-re-gles-du-jeu-gazon-juillet-2022/file.html"
             },
             {
-                "name": "Hockey5",
-                "url" : "https://www.ffhockey.org/hockey-5.html"
+                "name": "7x7",
+                "url" : "https://www.ffhockey.org/docman-liste-hierarchique/documentations-officielles/regles-du-jeu/1423-re-gles-du-jeu-7vs7-edition-2023-pdf/file.html"
             },
             {
-                "name": "Pratiques de jeu",
-                "url" : "https://www.ffhockey.org/docman-liste-hierarchique/championnat/documentation/476-guide-des-pratiques-de-jeu/file.html"
+                "name": "7x7 simplifiée",
+                "url" : "https://www.ffhockey.org/docman-liste-hierarchique/documentations-officielles/regles-du-jeu/1424-re-gles-du-jeu-hockey-a-7-version-simplifie-e-edition-2023-pdf/file.html"
             },
             {
                 "name": "Indoor",
-                "url" : "https://www.ffhockey.org/hockey-en-salle.html"
+                "url" : "https://www.ffhockey.org/docman-liste-hierarchique/cnja/1445-re-gles-du-jeu-salle-ffh-2023-pdf/file.html"
             },
             {
                 "name": "More",
-                "url" : "https://www.ffhockey.org/statuts-reglements.html"
+                "url" : "https://www.ffhockey.org/federation/documentations-officielles/2015-08-28-09-14-31.html"
             }
         ]
     },
@@ -391,7 +383,7 @@
                 "url" : "https://www.knhb.nl/app/uploads/2023/08/Spelreglement-veld-vanaf-1-augustus-2023.pdf"
             },
             {
-                "name": "Youth",
+                "name": "U8",
                 "url" : "https://www.knhb.nl/app/uploads/2023/06/Speelregels-en-veldindeling-O8_062023-v3.pdf"
             },
             {
@@ -401,18 +393,6 @@
             {
                 "name": "U10",
                 "url" : "https://www.knhb.nl/app/uploads/2023/06/Speelregels-en-veldindeling-O10_062023-v2.pdf"
-            },
-            {
-                "name": "Indoor",
-                "url" : "https://www.knhb.nl/app/uploads/2022/11/Spelreglement-Zaalhockey-vanaf-1-november-2022-1.pdf"
-            },
-            {
-                "name": "Differences Indoor",
-                "url" : "https://www.knhb.nl/app/uploads/2022/11/Verschillen-spelregels-veld-en-zaalhockey-2022-2023.pdf"
-            },
-            {
-                "name": "Indoor Youth",
-                "url" : "https://www.knhb.nl/app/uploads/2021/11/211119-Zaalhockeyregels-Jongste-Jeugd-vanaf-1-december-2021.pdf"
             },
             {
                 "name": "G Hockey",
@@ -433,7 +413,19 @@
             {
                 "name": "More",
                 "url" : "https://www.knhb.nl/kenniscentrum/scheidsrechters/alles-over-de-spelregels"
-            }
+            },
+            {
+                "name": "Indoor",
+                "url" : "https://www.knhb.nl/app/uploads/2022/11/Spelreglement-Zaalhockey-vanaf-1-november-2022-1.pdf"
+            },
+            {
+                "name": "Differences Indoor",
+                "url" : "https://www.knhb.nl/app/uploads/2022/11/Verschillen-spelregels-veld-en-zaalhockey-2022-2023.pdf"
+            },
+            {
+                "name": "Youth <U14",
+                "url" : "https://www.knhb.nl/kenniscentrum/competities/competitie-aanbod-veldhockey-jongste-jeugd"
+            },
         ]
     },
     {
@@ -459,7 +451,7 @@
             },
             {
                 "name": "More",
-                "url" : "http://hockeynz.co.nz/about-us/resources/tournaments/"
+                "url" : "https://www.hockeynz.co.nz"
             }
         ]
     },
