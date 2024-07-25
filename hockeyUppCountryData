@@ -2,10 +2,10 @@
     {
         "carCode": "AUS",
         "regionCode": "AU",
-        "names": [
+        "names": {
             "en": "Australia",
             "nl": "Australië"
-        ],
+        },
         "timeStructures" : [
                 {
                     "usecase" : "Indoor",
@@ -40,10 +40,10 @@
     {
         "carCode": "B",
         "regionCode": "BE",
-        "names": [
+        "names": {
             "en": "Belgium",
             "nl": "België"
-        ],
+        },
         "timeStructures" : [
                 {
                     "usecase" : "U7-U8",
@@ -116,10 +116,10 @@
     {
         "carCode": "D",
         "regionCode": "DE",
-        "names": [
+        "names": {
             "en": "Germany",
             "nl": "Duitsland"
-        ],
+        },
         "timeStructures" : [
                 {
                     "usecase" : "Indoor",
@@ -176,10 +176,10 @@
     {
         "carCode": "E",
         "regionCode": "ES",
-        "names": [
+        "names": {
             "en": "Spain",
             "nl": "Spanje"
-        ],
+        },
         "timeStructures" : [
                 {
                     "usecase" : "Indoor",
@@ -228,10 +228,10 @@
     {
         "carCode": "ENG",
         "regionCode": "GB",
-        "names": [
+        "names": {
             "en": "England",
             "nl": "Engeland"
-        ],
+        },
         "timeStructures" : [
                 {
                     "usecase" : "In2Hockey",
@@ -268,10 +268,10 @@
     {
         "carCode": "F",
         "regionCode": "FR",
-        "names": [
+        "names": {
             "en": "France",
             "nl": "Frankrijk"
-        ],
+        },
         "timeStructures" : [
                 {
                     "usecase" : "General",
@@ -320,10 +320,10 @@
     {
         "carCode": "IND",
         "regionCode": "IN",
-        "names": [
+        "names": {
             "en": "India",
             "nl": "Indië"
-        ],
+        },
         "timeStructures" : [
                 {
                     "usecase" : "General",
@@ -375,10 +375,10 @@
     {
         "carCode": "NL",
         "regionCode": "NL",
-        "names": [
+        "names": {
             "en": "Netherlands",
             "nl": "Nederland"
-        ],
+        },
         "timeStructures" : [
                 {
                     "usecase" : "Teams of 3",
@@ -455,10 +455,10 @@
     {
         "carCode": "NZ",
         "regionCode": "NZ",
-        "names": [
+        "names": {
             "en": "New Zealand",
             "nl": "Nieuw-Zeeland"
-        ],
+        },
         "timeStructures" : [
                 {
                     "usecase" : "General",
@@ -485,10 +485,10 @@
     {
         "carCode": "RA",
         "regionCode": "AR",
-        "names": [
+        "names": {
             "en": "Argentina",
             "nl": "Argentinië"
-        ],
+        },
         "timeStructures" : [
                 {
                     "usecase" : "General",
