@@ -8,31 +8,49 @@
         },
         "timeStructures" : [
                 {
-                    "usecase" : "Indoor",
+                    "usecases" : {
+                        "en": "Indoor",
+                        "nl": "Indoor"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 10
                 },
                 {
-                    "usecase" : "Outdoor",
+                    "usecases" : {
+                        "en": "Outdoor",
+                        "nl": "Outdoor"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
                 }
         ],
         "rules" : [
             {
-                "name": "Outdoor",
+                "names" : {
+                    "en": "Outdoor",
+                    "nl": "Outdoor"
+                },
                 "url" : "https://www.fih.hockey/static-assets/pdf/fih-rules-of-hockey-June23-update.pdf"
             },
             {
-                "name": "Indoor",
+                "names" : {
+                    "en": "Indoor",
+                    "nl": "Indoor"
+                },
                 "url" : "https://cdn.revolutionise.com.au/cups/hockeyaus/files/f0qouyltwjddmcx4.pdf"
             },
             {
-                "name": "Bluffer's Guide",
+                "names" : {
+                    "en": "Bluffer's Guide",
+                    "nl": "Bluffer's Guide"
+                },
                 "url" : "https://cdn.revolutionise.com.au/cups/hockeyaus/files/n0d0xarrjzqfrgse.pdf"
             },
             {
-                "name": "More",
+                "names" : {
+                    "en": "More",
+                    "nl": "Meer"
+                },
                 "url" : "https://hockey.org.au"
             }
         ]
@@ -46,69 +64,114 @@
         },
         "timeStructures" : [
                 {
-                    "usecase" : "U7-U8",
+                    "usecases" : {
+                        "en": "U7-U8",
+                        "nl": "U7-U8"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 20
                 },
                 {
-                    "usecase" : "U9-U10-U11-U12",
+                    "usecases" : {
+                        "en": "U9-U10-U11-U12",
+                        "nl": "U9-U10-U11-U12"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 25
                 },
                 {
-                    "usecase" : "U14-Ladies-Gents",
+                    "usecases" : {
+                        "en": "U14-Ladies-Gents",
+                        "nl": "U14-Ladies-Gents"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 30
                 },
                 {
-                    "usecase" : "General",
+                    "usecases" : {
+                        "en": "General",
+                        "nl": "Algemeen"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
                 }
         ],
         "rules" : [
             {
-                "name": "Outdoor",
+                "names" : {
+                    "en": "Outdoor",
+                    "nl": "Outdoor"
+                },
                 "url" : "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf"
             },
             {
-                "name": "Outdoor <U14",
+                "names" : {
+                    "en": "Outdoor <U14",
+                    "nl": "Outdoor <U14"
+                },
                 "url" : "https://hockey.be/wp-content/uploads/2021/08/Table-Parents-Umpires-NL-less-U14-v1.1052495.pdf"
             },
             {
-                "name": "Outdoor U14-U19",
+                "names" : {
+                    "en": "Outdoor U14-U19",
+                    "nl": "Outdoor U14-U19"
+                },
                 "url" : "https://hockey.be/wp-content/uploads/2021/08/Regels-U14-U19.pdf"
             },
             {
-                "name": "G-hockey",
+                "names" : {
+                    "en": "G-hockey",
+                    "nl": "G-hockey"
+                },
                 "url" : "https://hockey.be/wp-content/uploads/2022/02/6-vs-6.pdf"
             },
             {
-                "name": "Ladies",
+                "names" : {
+                    "en": "Ladies",
+                    "nl": "Ladies"
+                },
                 "url" : "https://hockey.be/wp-content/uploads/2019/11/Ladies-rules-NL-2019-2020.pdf"
             },
             {
-                "name": "Gents",
+                "names" : {
+                    "en": "Gents",
+                    "nl": "Gents"
+                },
                 "url" : "https://hockey.be/wp-content/uploads/2019/11/Gents-rules-NL-2019-2020.pdf"
             },
             {
-                "name": "More Outdoor",
+                "names" : {
+                    "en": "More outdoor",
+                    "nl": "Meer outdoor"
+                },
                 "url" : "https://hockey.be/nl/competitie/outdoor-hockey/spelregels-1/"
             },
             {
-                "name": "Indoor",
+                "names" : {
+                    "en": "Indoor",
+                    "nl": "Indoor"
+                },
                 "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
             },
             {
-                "name": "Indoor U9-U12",
+                "names" : {
+                    "en": "Indoor U9-U12",
+                    "nl": "Indoor U9-U12"
+                },
                 "url" : "https://hockey.be/wp-content/uploads/2019/12/Indoor-Spelregels-U9-U12-1.pdf"
             },
             {
-                "name": "Indoor U14-U19",
+                "names" : {
+                    "en": "Indoor U14-U19",
+                    "nl": "Indoor U14-U19"
+                },
                 "url" : "https://hockey.be/wp-content/uploads/2019/11/Indoor-Spelregels-U14-U19.pdf"
             },
             {
-                "name": "More Indoor",
+                "names" : {
+                    "en": "More indoor",
+                    "nl": "Meer indoor"
+                },
                 "url" : "https://hockey.be/nl/competitie/indoor-hockey/spelregels/"
             }
         ]
@@ -122,53 +185,86 @@
         },
         "timeStructures" : [
                 {
-                    "usecase" : "Indoor",
+                    "usecases" : {
+                        "en": "Indoor",
+                        "nl": "Indoor"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 10
                 },
                 {
-                    "usecase" : "Youth",
+                    "usecases" : {
+                        "en": "Youth",
+                        "nl": "Jeugd"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 25
                 },
                 {
-                    "usecase" : "General",
+                    "usecases" : {
+                        "en": "General",
+                        "nl": "Algemeen"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 30
                 },
                 {
-                    "usecase" : "International",
+                    "usecases" : {
+                        "en": "International",
+                        "nl": "Internationaal"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
                 }
         ],
         "rules" : [
             {
-                "name": "Outdoor",
+                "names" : {
+                    "en": "Outdoor",
+                    "nl": "Outdoor"
+                },
                 "url" : "https://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/DHB-Feldregeln%202022.pdf"
             },
             {
-                "name": "Outdoor Changes",
+                "names" : {
+                    "en": "Outdoor changes",
+                    "nl": "Outdoor wijzigingen"
+                },
                 "url" : "https://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/regelaenderungen_feld_RR_2021-22.pdf"
             },
             {
-                "name": "International Rules",
+                "names" : {
+                    "en": "International",
+                    "nl": "Internationaal"
+                },
                 "url" : "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/SR-Download.asp?lokal=DHB&auswahl=6"
             },
             {
-                "name": "More Outdoor",
+                "names" : {
+                    "en": "More outdoor",
+                    "nl": "Meer outdoor"
+                },
                 "url" : "http://www.deutscher-hockey-bund.de/VVI-web/default.asp?lokal=&innen=/VVI-web/Schiedsrichter/SR-Download.asp&auswahl=3"
             },
             {
-                "name": "Indoor",
+                "names" : {
+                    "en": "Indoor",
+                    "nl": "Indoor"
+                },
                 "url" : "https://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/DHB-Hallenregeln%202021-22v2.pdf"
             },
             {
-                "name": "Indoor Changes",
+                "names" : {
+                    "en": "Indoor changes",
+                    "nl": "Indoor wijzigingen"
+                },
                 "url" : "https://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/file/Regelaenderungen%20Halle%202021-22.pdf"
             },
             {
-                "name": "More Indoor",
+                "names" : {
+                    "en": "More indoor",
+                    "nl": "Meer indoor"
+                },
                 "url" : "http://www.deutscher-hockey-bund.de/VVI-web/Schiedsrichter/SR-Download.asp?lokal=DHB&auswahl=4"
             }
         ]
@@ -182,45 +278,72 @@
         },
         "timeStructures" : [
                 {
-                    "usecase" : "Indoor",
+                    "usecases" : {
+                        "en": "Indoor",
+                        "nl": "Indoor"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 10
                 },
                 {
-                    "usecase" : "Master & M/P",
+                    "usecases" : {
+                        "en": "Master & M/P",
+                        "nl": "Master & M/P"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 25
                 },
                 {
-                    "usecase" : "Outdoor",
+                    "usecases" : {
+                        "en": "Outdoor",
+                        "nl": "Outdoor"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 30
                 },
                 {
-                    "usecase" : "Outdoor",
+                    "usecases" : {
+                        "en": "General",
+                        "nl": "Algemeen"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
                 }
         ],
         "rules" : [
             {
-                "name": "Outdoor",
+                "names" : {
+                    "en": "Outdoor",
+                    "nl": "Outdoor"
+                },
                 "url" : "https://rfeh.es/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=67&wpfd_file_id=11980&token=&preview=1"
             },
             {
-                "name": "Outdoor Changes 2023-2024",
+                "names" : {
+                    "en": "Outdoor changes 2023-2024",
+                    "nl": "Outdoor wijzigingen 23-24"
+                },
                 "url" : "https://rfeh.es/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=67&wpfd_file_id=13010&token=&preview=1"
             },
             {
-                "name": "Mamis & Papis",
+                "names" : {
+                    "en": "Mamis & Papis",
+                    "nl": "Mamis & Papis"
+                },
                 "url" : "https://rfeh.es/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=67&wpfd_file_id=11985&token=&preview=1"
             },
             {
-                "name": "Indoor",
+                "names" : {
+                    "en": "Indoor",
+                    "nl": "Indoor"
+                },
                 "url" : "https://rfeh.es/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=67&wpfd_file_id=11983&token=&preview=1"
             },
             {
-                "name": "More",
+                "names" : {
+                    "en": "More",
+                    "nl": "Meer"
+                },
                 "url" : "https://rfeh.es/documentacion-portal-de-transparencia/"
             }
         ]
@@ -234,33 +357,51 @@
         },
         "timeStructures" : [
                 {
-                    "usecase" : "In2Hockey",
+                    "usecases" : {
+                        "en": "In2Hockey",
+                        "nl": "In2Hockey"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 15
                 },
                 {
-                    "usecase" : "Indoor",
+                    "usecases" : {
+                        "en": "Indoor",
+                        "nl": "Indoor"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 10
                 },
                 {
-                    "usecase" : "Outdoor",
+                    "usecases" : {
+                        "en": "Outdoor",
+                        "nl": "Outdoor"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 30
                 },
                 {
-                    "usecase" : "Outdoor",
+                    "usecases" : {
+                        "en": "General",
+                        "nl": "Algemeen"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
                 }
         ],
         "rules" : [
             {
-                "name": "Outdoor",
+                "names" : {
+                    "en": "Outdoor",
+                    "nl": "Outdoor"
+                },
                 "url" : "http://www.fih.ch/media/13350505/fih-rules-of-hockey-jan2021-update.pdf"
             },
             {
-                "name": "More",
+                "names" : {
+                    "en": "More",
+                    "nl": "Meer"
+                },
                 "url" : "https://www.englandhockey.co.uk/governance/rules-and-regulations/rules-of-hockey"
             }
         ]
@@ -274,45 +415,72 @@
         },
         "timeStructures" : [
                 {
-                    "usecase" : "General",
+                    "usecases" : {
+                        "en": "General",
+                        "nl": "Algemeen"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 15
                 },
                 {
-                    "usecase" : "Indoor",
+                    "usecases" : {
+                        "en": "Indoor",
+                        "nl": "Indoor"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 20
                 },
                 {
-                    "usecase" : "Hockey5",
+                    "usecases" : {
+                        "en": "Hockey5",
+                        "nl": "Hockey5"
+                    },
                     "numberOfPeriods": 3,
                     "minutesPerPeriod": 15
                 },
                 {
-                    "usecase" : "Hockey5s",
+                    "usecases" : {
+                        "en": "Hockey5s",
+                        "nl": "Hockey5s"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 25
                 }
         ],
         "rules" : [
             {
-                "name": "Outdoor",
+                "names" : {
+                    "en": "Outdoor",
+                    "nl": "Outdoor"
+                },
                 "url" : "https://www.ffhockey.org/docman-liste-hierarchique/cnja/1293-re-gles-du-jeu-gazon-juillet-2022/file.html"
             },
             {
-                "name": "7x7",
+                "names" : {
+                    "en": "7x7",
+                    "nl": "7x7"
+                },
                 "url" : "https://www.ffhockey.org/docman-liste-hierarchique/documentations-officielles/regles-du-jeu/1423-re-gles-du-jeu-7vs7-edition-2023-pdf/file.html"
             },
             {
-                "name": "7x7 simplifiée",
+                "names" : {
+                    "en": "7x7 simplifiée",
+                    "nl": "7x7 simpel"
+                },
                 "url" : "https://www.ffhockey.org/docman-liste-hierarchique/documentations-officielles/regles-du-jeu/1424-re-gles-du-jeu-hockey-a-7-version-simplifie-e-edition-2023-pdf/file.html"
             },
             {
-                "name": "Indoor",
+                "names" : {
+                    "en": "Indoor",
+                    "nl": "Indoor"
+                },
                 "url" : "https://www.ffhockey.org/docman-liste-hierarchique/cnja/1445-re-gles-du-jeu-salle-ffh-2023-pdf/file.html"
             },
             {
-                "name": "More",
+                "names" : {
+                    "en": "More",
+                    "nl": "Meer"
+                },
                 "url" : "https://www.ffhockey.org/federation/documentations-officielles/2015-08-28-09-14-31.html"
             }
         ]
@@ -326,48 +494,78 @@
         },
         "timeStructures" : [
                 {
-                    "usecase" : "General",
+                    "usecases" : {
+                        "en": "General",
+                        "nl": "Algemeen"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 15
                 },
                 {
-                    "usecase" : "Hockey5s",
+                    "usecases" : {
+                        "en": "Hockey5s",
+                        "nl": "Hockey5s"
+                    },
                     "numberOfPeriods": 3,
                     "minutesPerPeriod": 10
                 },
                 {
-                    "usecase" : "Tournaments",
+                    "usecases" : {
+                        "en": "Tournaments",
+                        "nl": "Toernooien"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 15
                 }
         ],
         "rules" : [
             {
-                "name": "FIH General Rules",
+                "names" : {
+                    "en": "FIH General Rules",
+                    "nl": "FIH Algemene regels"
+                },
                 "url" : "https://www.hockeyindia.org/static-assets/waf-images/uploadfile/65/cf/a7/f556f977-722f-4a53-ae6f-03341c6e876b.pdf"
             },
             {
-                "name": "Hockey5s",
+                "names" : {
+                    "en": "Hockey5s",
+                    "nl": "Hockey5s"
+                },
                 "url" : "https://www.hockeyindia.org/static-assets/waf-images/UploadFile/6e/8e/dd/949f85f0-2ef6-4883-aa4f-a5fc18c71ced.pdf"
             },
             {
-                "name": "Hockey5s Tournament",
+                "names" : {
+                    "en": "Hockey5s Tournament",
+                    "nl": "Hockey5s Toernooi"
+                },
                 "url" : "https://www.hockeyindia.org/static-assets/waf-images/UploadFile/4e/a4/5e/e7092ab9-8017-4c75-9484-aed169744cf5.pdf"
             },
             {
-                "name": "FIH Tournament",
+                "names" : {
+                    "en": "FIH Tournament",
+                    "nl": "FIH Toernooi"
+                },
                 "url" : "https://www.hockeyindia.org/static-assets/waf-images/UploadFile/8b/4e/00/bfd9e99d-d038-4de8-8681-a272ec7edffe.pdf"
             },
             {
-                "name": "Variations India",
+                "names" : {
+                    "en": "Variations India",
+                    "nl": "Varianten Indië"
+                },
                 "url" : "https://www.hockeyindia.org/static-assets/waf-images/UploadFile/4f/81/ad/270b0c26-3e7f-4158-aa8a-a687c57c9c75.pdf"
             },
             {
-                "name": "Indoor",
+                "names" : {
+                    "en": "Indoor",
+                    "nl": "Indoor"
+                },
                 "url" : "https://www.hockeyindia.org/static-assets/waf-images/uploadfile/9d/8c/31/ff44be50-a6f8-47e6-b55e-41f8ebf6ab29.pdf"
             },
             {
-                "name": "More",
+                "names" : {
+                    "en": "More",
+                    "nl": "Meer"
+                },
                 "url" : "https://www.hockeyindia.org/technical/rules-and-regulations"
             }
         ]
@@ -381,73 +579,121 @@
         },
         "timeStructures" : [
                 {
-                    "usecase" : "Teams of 3",
+                    "usecases" : {
+                        "en": "Teams of 3",
+                        "nl": "3-tallen"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 20
                 },
                 {
-                    "usecase" : "Teams of 6",
+                    "usecases" : {
+                        "en": "Teams of 6",
+                        "nl": "6-tallen"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 25
                 },
                 {
-                    "usecase" : "Teams of 8",
+                    "usecases" : {
+                        "en": "Teams of 8",
+                        "nl": "8-tallen"
+                    },
                     "numberOfPeriods": 2,
                     "minutesPerPeriod": 30
                 },
                 {
-                    "usecase" : "General",
+                    "usecases" : {
+                        "en": "General",
+                        "nl": "Algemeen"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 17.5
                 }
         ],
         "rules" : [
             {
-                "name": "Outdoor",
+                "names" : {
+                    "en": "Outdoor",
+                    "nl": "Outdoor"
+                },
                 "url" : "https://www.knhb.nl/app/uploads/2023/08/Spelreglement-veld-vanaf-1-augustus-2023.pdf"
             },
             {
-                "name": "U8",
+                "names" : {
+                    "en": "U8",
+                    "nl": "U8"
+                },
                 "url" : "https://www.knhb.nl/app/uploads/2023/06/Speelregels-en-veldindeling-O8_062023-v3.pdf"
             },
             {
-                "name": "U9",
+                "names" : {
+                    "en": "U9",
+                    "nl": "U9"
+                },
                 "url" : "https://www.knhb.nl/app/uploads/2022/07/Speelregels-en-veldindeling-O9_062023.pdf"
             },
             {
-                "name": "U10",
+                "names" : {
+                    "en": "U10",
+                    "nl": "U10"
+                },
                 "url" : "https://www.knhb.nl/app/uploads/2023/06/Speelregels-en-veldindeling-O10_062023-v2.pdf"
             },
             {
-                "name": "G Hockey",
+                "names" : {
+                    "en": "G Hockey",
+                    "nl": "G-hockey"
+                },
                 "url" : "https://www.knhb.nl/app/uploads/2023/09/Spelregels-seizoen-2023-2024-1-1.pdf"
             },
             {
-                "name": "LG Hockey",
+                "names" : {
+                    "en": "LG Hockey",
+                    "nl": "LG-hockey"
+                },
                 "url" : "https://www.knhb.nl/app/uploads/2023/09/Spelregels-seizoen-LG-2023-2024.pdf"
             },
             {
-                "name": "E Hockey",
+                "names" : {
+                    "en": "E Hockey",
+                    "nl": "E-hockey"
+                },
                 "url" : "https://www.knhb.nl/app/uploads/2023/03/Wedstrijdreglement-E-Hockey_2023.docx"
             },
             {
-                "name": "H Hockey",
+                "names" : {
+                    "en": "H Hockey",
+                    "nl": "H-hockey"
+                },
                 "url" : "https://www.knhb.nl/app/uploads/2020/07/Wedstrijdreglement-H-Hockey-2020-2021.pdf"
             },
             {
-                "name": "More",
+                "names" : {
+                    "en": "More",
+                    "nl": "Meer"
+                },
                 "url" : "https://www.knhb.nl/kenniscentrum/scheidsrechters/alles-over-de-spelregels"
             },
             {
-                "name": "Indoor",
+                "names" : {
+                    "en": "Indoor",
+                    "nl": "Indoor"
+                },
                 "url" : "https://www.knhb.nl/app/uploads/2022/11/Spelreglement-Zaalhockey-vanaf-1-november-2022-1.pdf"
             },
             {
-                "name": "Differences Indoor",
+                "names" : {
+                    "en": "Differences Indoor",
+                    "nl": "Verschillen indoor"
+                },
                 "url" : "https://www.knhb.nl/app/uploads/2022/11/Verschillen-spelregels-veld-en-zaalhockey-2022-2023.pdf"
             },
             {
-                "name": "Youth <U14",
+                "names" : {
+                    "en": "Youth <U14",
+                    "nl": "Jeugd <U14"
+                },
                 "url" : "https://www.knhb.nl/kenniscentrum/competities/competitie-aanbod-veldhockey-jongste-jeugd"
             },
         ]
@@ -461,23 +707,35 @@
         },
         "timeStructures" : [
                 {
-                    "usecase" : "General",
+                    "usecases" : {
+                        "en": "General",
+                        "nl": "Algemeen"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 15
                 },
                 {
-                    "usecase" : "Schools",
+                    "usecases" : {
+                        "en": "Schools",
+                        "nl": "Scholen"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 15
                 }
         ],
         "rules" : [
             {
-                "name": "FIH General Rules",
+                "names" : {
+                    "en": "FIH General Rules",
+                    "nl": "FIH Algemene regels"
+                },
                 "url" : "http://www.fih.ch/media/13350505/fih-rules-of-hockey-jan2021-update.pdf"
             },
             {
-                "name": "More",
+                "names" : {
+                    "en": "More",
+                    "nl": "Meer"
+                },
                 "url" : "https://www.hockeynz.co.nz"
             }
         ]
@@ -491,45 +749,72 @@
         },
         "timeStructures" : [
                 {
-                    "usecase" : "General",
+                    "usecases" : {
+                        "en": "General",
+                        "nl": "Algemeen"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 15
                 },
                 {
-                    "usecase" : "Indoor",
+                    "usecases" : {
+                        "en": "Indoor",
+                        "nl": "Indoor"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 10
                 },
                 {
-                    "usecase" : "Hockey5s",
+                    "usecases" : {
+                        "en": "Hockey5s",
+                        "nl": "Hockey5s"
+                    },
                     "numberOfPeriods": 3,
                     "minutesPerPeriod": 15
                 },
                 {
-                    "usecase" : "Championships",
+                    "usecases" : {
+                        "en": "Championships",
+                        "nl": "Kampioenschappen"
+                    },
                     "numberOfPeriods": 4,
                     "minutesPerPeriod": 15
                 }
         ],
         "rules" : [
             {
-                "name": "Outdoor",
+                "names" : {
+                    "en": "Outdoor",
+                    "nl": "Outdoor"
+                },
                 "url" : "https://www.cahockey.org.ar/media/reglamentos/Reglamento%20Hockey%20CAH.pdf"
             },
             {
-                "name": "Indoor",
+                "names" : {
+                    "en": "Indoor",
+                    "nl": "Indoor"
+                },
                 "url" : "https://www.cahockey.org.ar/media/reglamentos/Reglamento%20pista%20CAH%202019_OK.pdf"
             },
             {
-                "name": "Hockey5",
+                "names" : {
+                    "en": "Hockey5",
+                    "nl": "Hockey5"
+                },
                 "url" : "https://www.cahockey.org.ar/media/reglamentos/reglamentohockey5.pdf"
             },
             {
-                "name": "Championships",
+                "names" : {
+                    "en": "Championships",
+                    "nl": "Kampioenschappen"
+                },
                 "url" : "https://www.cahockey.org.ar/media/reglamentos/CIRCULAR%2012-2019-REGLAMENTO%20%20GENERAL%20DE%20CAMPEONATOS%202019%20CAH_1-.pdf"
             },
             {
-                "name": "More",
+                "names" : {
+                    "en": "More",
+                    "nl": "Meer"
+                },
                 "url" : "https://www.cahockey.org.ar/reglamentos"
             }
         ]
