@@ -395,14 +395,28 @@
                     "en": "Outdoor",
                     "nl": "Outdoor"
                 },
-                "url" : "http://www.fih.ch/media/13350505/fih-rules-of-hockey-jan2021-update.pdf"
+                "url" : "https://www.fih.hockey/static-assets/pdf/fih-rules-of-hockey-June23-update.pdf"
+            },
+            {
+                "names" : {
+                    "en": "Indoor",
+                    "nl": "Indoor"
+                },
+                "url" : "https://www.fih.hockey/static-assets/pdf/fih-rules-of-indoor-hockey-2023.pdf"
+            },
+            {
+                "names" : {
+                    "en": "Hockey 5s",
+                    "nl": "Hockey 5s"
+                },
+                "url" : "https://www.fih.hockey/static-assets/pdf/fih-rules-of-hockey-5s-jan-2024-final.pdf"
             },
             {
                 "names" : {
                     "en": "More",
                     "nl": "Meer"
                 },
-                "url" : "https://www.englandhockey.co.uk/governance/rules-and-regulations/rules-of-hockey"
+                "url" : "https://www.fih.hockey/about-fih/official-documents/rules-of-hockey"
             }
         ]
     },
