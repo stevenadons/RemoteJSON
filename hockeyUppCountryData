@@ -631,42 +631,42 @@
                     "en": "Outdoor",
                     "nl": "Outdoor"
                 },
-                "url" : "https://www.knhb.nl/app/uploads/2023/08/Spelreglement-veld-vanaf-1-augustus-2023.pdf"
+                "url" : "https://www.knhb.nl/app/uploads/2024/08/Spelreglement-veld-vanaf-1-augustus-2024-1.pdf"
             },
             {
                 "names" : {
                     "en": "U8",
                     "nl": "U8"
                 },
-                "url" : "https://www.knhb.nl/app/uploads/2023/06/Speelregels-en-veldindeling-O8_062023-v3.pdf"
+                "url" : "https://www.knhb.nl/app/uploads/2023/06/Speelregels-en-veldindeling-O8.pdf"
             },
             {
                 "names" : {
                     "en": "U9",
                     "nl": "U9"
                 },
-                "url" : "https://www.knhb.nl/app/uploads/2022/07/Speelregels-en-veldindeling-O9_062023.pdf"
+                "url" : "https://www.knhb.nl/app/uploads/2023/06/Speelregels-en-veldindeling-O9.pdf"
             },
             {
                 "names" : {
                     "en": "U10",
                     "nl": "U10"
                 },
-                "url" : "https://www.knhb.nl/app/uploads/2023/06/Speelregels-en-veldindeling-O10_062023-v2.pdf"
+                "url" : "https://www.knhb.nl/app/uploads/2023/06/Speelregels-en-veldindeling-O10.pdf"
             },
             {
                 "names" : {
                     "en": "G Hockey",
                     "nl": "G-hockey"
                 },
-                "url" : "https://www.knhb.nl/app/uploads/2023/09/Spelregels-seizoen-2023-2024-1-1.pdf"
+                "url" : "https://www.knhb.nl/app/uploads/2024/07/Spelregels-seizoen-G-en-LG-2024-2025.pdf"
             },
             {
                 "names" : {
                     "en": "LG Hockey",
                     "nl": "LG-hockey"
                 },
-                "url" : "https://www.knhb.nl/app/uploads/2023/09/Spelregels-seizoen-LG-2023-2024.pdf"
+                "url" : "https://www.knhb.nl/app/uploads/2024/07/Spelregels-seizoen-G-en-LG-2024-2025.pdf"
             },
             {
                 "names" : {
@@ -680,7 +680,7 @@
                     "en": "H Hockey",
                     "nl": "H-hockey"
                 },
-                "url" : "https://www.knhb.nl/app/uploads/2020/07/Wedstrijdreglement-H-Hockey-2020-2021.pdf"
+                "url" : "https://www.knhb.nl/kenniscentrum/hockeysoorten/aangepast-hockey#h-hockey"
             },
             {
                 "names" : {
@@ -694,22 +694,15 @@
                     "en": "Indoor",
                     "nl": "Indoor"
                 },
-                "url" : "https://www.knhb.nl/app/uploads/2022/11/Spelreglement-Zaalhockey-vanaf-1-november-2022-1.pdf"
+                "url" : "https://www.knhb.nl/app/uploads/2024/11/DEF-Spelreglement-Zaalhockey-vanaf-1-november-2024.pdf"
             },
             {
                 "names" : {
                     "en": "Differences Indoor",
                     "nl": "Verschillen indoor"
                 },
-                "url" : "https://www.knhb.nl/app/uploads/2022/11/Verschillen-spelregels-veld-en-zaalhockey-2022-2023.pdf"
-            },
-            {
-                "names" : {
-                    "en": "Youth <U14",
-                    "nl": "Jeugd <U14"
-                },
-                "url" : "https://www.knhb.nl/kenniscentrum/competities/competitie-aanbod-veldhockey-jongste-jeugd"
-            },
+                "url" : "https://www.knhb.nl/app/uploads/2023/11/Verschillen-spelregels-veld-en-zaalhockey-2023-2024.pdf"
+            }
         ]
     },
     {
