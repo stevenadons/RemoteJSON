@@ -316,28 +316,21 @@
                     "en": "Outdoor",
                     "nl": "Outdoor"
                 },
-                "url" : "https://rfeh.es/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=67&wpfd_file_id=11980&token=&preview=1"
-            },
-            {
-                "names" : {
-                    "en": "Outdoor changes 2023-2024",
-                    "nl": "Outdoor wijzigingen 23-24"
-                },
-                "url" : "https://rfeh.es/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=67&wpfd_file_id=13010&token=&preview=1"
+                "url" : "https://rfeh.es/download/245/reglamentos-hockey-hierba/16566/reglas-hockey-hierba-2023.pdf"
             },
             {
                 "names" : {
                     "en": "Mamis & Papis",
                     "nl": "Mamis & Papis"
                 },
-                "url" : "https://rfeh.es/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=67&wpfd_file_id=11985&token=&preview=1"
+                "url" : "https://rfeh.es/download/247/reglamentos-mamis-papis/11968/reglamento-mamis-papis.pdf"
             },
             {
                 "names" : {
                     "en": "Indoor",
                     "nl": "Indoor"
                 },
-                "url" : "https://rfeh.es/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=67&wpfd_file_id=11983&token=&preview=1"
+                "url" : "https://rfeh.es/download/246/reglamentos-hockey-sala/14370/reglas-hockey-sala-2023.pdf"
             },
             {
                 "names" : {
@@ -409,7 +402,7 @@
                     "en": "Hockey 5s",
                     "nl": "Hockey 5s"
                 },
-                "url" : "https://www.fih.hockey/static-assets/pdf/fih-rules-of-hockey-5s-jan-2024-final.pdf"
+                "url" : "https://www.fih.hockey/static-assets/pdf/fih-rules-of-hockey-5s-jan-2024-final.pdf?v=1.06"
             },
             {
                 "names" : {
@@ -538,42 +531,42 @@
                     "en": "FIH General Rules",
                     "nl": "FIH Algemene regels"
                 },
-                "url" : "https://www.hockeyindia.org/static-assets/waf-images/uploadfile/65/cf/a7/f556f977-722f-4a53-ae6f-03341c6e876b.pdf"
+                "url" : "https://hockey-india.b-cdn.net/media/uploads/2024/08/fih-rules-of-hockey-June23-update.pdf"
             },
             {
                 "names" : {
                     "en": "Hockey5s",
                     "nl": "Hockey5s"
                 },
-                "url" : "https://www.hockeyindia.org/static-assets/waf-images/UploadFile/6e/8e/dd/949f85f0-2ef6-4883-aa4f-a5fc18c71ced.pdf"
+                "url" : "https://hockey-india.s3.ap-south-1.amazonaws.com/uploads/documents/f7ec5589-e9b5-4112-8803-e4acc60885f2.pdf"
             },
             {
                 "names" : {
                     "en": "Hockey5s Tournament",
                     "nl": "Hockey5s Toernooi"
                 },
-                "url" : "https://www.hockeyindia.org/static-assets/waf-images/UploadFile/4e/a4/5e/e7092ab9-8017-4c75-9484-aed169744cf5.pdf"
+                "url" : "https://hockey-india.s3.ap-south-1.amazonaws.com/uploads/documents/e7092ab9-8017-4c75-9484-aed169744cf5.pdf"
             },
             {
                 "names" : {
                     "en": "FIH Tournament",
                     "nl": "FIH Toernooi"
                 },
-                "url" : "https://www.hockeyindia.org/static-assets/waf-images/UploadFile/8b/4e/00/bfd9e99d-d038-4de8-8681-a272ec7edffe.pdf"
+                "url" : "https://hockey-india.b-cdn.net/media/uploads/2024/08/fih-general-tournament-regulations-1st-april-2024.pdf"
             },
             {
                 "names" : {
                     "en": "Variations India",
                     "nl": "Varianten Indië"
                 },
-                "url" : "https://www.hockeyindia.org/static-assets/waf-images/UploadFile/4f/81/ad/270b0c26-3e7f-4158-aa8a-a687c57c9c75.pdf"
+                "url" : "https://hockey-india.s3.ap-south-1.amazonaws.com/uploads/documents/270b0c26-3e7f-4158-aa8a-a687c57c9c75.pdf"
             },
             {
                 "names" : {
                     "en": "Indoor",
                     "nl": "Indoor"
                 },
-                "url" : "https://www.hockeyindia.org/static-assets/waf-images/uploadfile/9d/8c/31/ff44be50-a6f8-47e6-b55e-41f8ebf6ab29.pdf"
+                "url" : "https://hockey-india.b-cdn.net/media/uploads/2024/08/fih-rules-of-indoor-hockey-2023.pdf"
             },
             {
                 "names" : {
@@ -631,7 +624,14 @@
                     "en": "Outdoor",
                     "nl": "Outdoor"
                 },
-                "url" : "https://www.knhb.nl/app/uploads/2024/08/Spelreglement-veld-vanaf-1-augustus-2024-1.pdf"
+                "url" : "https://www.knhb.nl/app/uploads/2025/08/Spelreglement-veld-vanaf-1-augustus-2025.pdf"
+            },
+            {
+                "names" : {
+                    "en": "Umpiring outdoor",
+                    "nl": "Afspraken arbitrage"
+                },
+                "url" : "https://www.knhb.nl/app/uploads/2025/08/Arbitrage-Afspraken-Veldhockey-seizoen-2025-2026.pdf"
             },
             {
                 "names" : {
@@ -656,45 +656,38 @@
             },
             {
                 "names" : {
-                    "en": "G Hockey",
-                    "nl": "G-hockey"
+                    "en": "Parahockey",
+                    "nl": "Parahockey"
                 },
-                "url" : "https://www.knhb.nl/app/uploads/2024/07/Spelregels-seizoen-G-en-LG-2024-2025.pdf"
-            },
-            {
-                "names" : {
-                    "en": "LG Hockey",
-                    "nl": "LG-hockey"
-                },
-                "url" : "https://www.knhb.nl/app/uploads/2024/07/Spelregels-seizoen-G-en-LG-2024-2025.pdf"
-            },
-            {
-                "names" : {
-                    "en": "E Hockey",
-                    "nl": "E-hockey"
-                },
-                "url" : "https://www.knhb.nl/app/uploads/2023/03/Wedstrijdreglement-E-Hockey_2023.docx"
-            },
-            {
-                "names" : {
-                    "en": "H Hockey",
-                    "nl": "H-hockey"
-                },
-                "url" : "https://www.knhb.nl/kenniscentrum/hockeysoorten/aangepast-hockey#h-hockey"
+                "url" : "https://www.knhb.nl/kenniscentrum/hockeysoorten/aangepast-hockey"
             },
             {
                 "names" : {
                     "en": "More",
                     "nl": "Meer"
                 },
-                "url" : "https://www.knhb.nl/kenniscentrum/scheidsrechters/alles-over-de-spelregels"
+                "url" : "https://www.knhb.nl/kenniscentrum/scheidsrechters/alles-over-de-spelregels/"
             },
             {
                 "names" : {
                     "en": "Indoor",
                     "nl": "Indoor"
                 },
-                "url" : "https://www.knhb.nl/app/uploads/2024/11/DEF-Spelreglement-Zaalhockey-vanaf-1-november-2024.pdf"
+                "url" : "https://www.knhb.nl/app/uploads/2024/12/DEF-Spelreglement-Zaalhockey-vanaf-1-november-2024.pdf"
+            },
+            {
+                "names" : {
+                    "en": "Indoor U9",
+                    "nl": "Indoor U9"
+                },
+                "url" : "https://www.knhb.nl/app/uploads/2023/06/SPEELREGELS_-ZAAL_O9.pdf"
+            },
+            {           
+                "names" : {
+                    "en": "Indoor U10",
+                    "nl": "Indoor U10"
+                },
+                "url" : "https://www.knhb.nl/app/uploads/2023/06/SPEELREGELS_-ZAAL_O10.pdf"
             },
             {
                 "names" : {
@@ -702,7 +695,14 @@
                     "nl": "Verschillen indoor"
                 },
                 "url" : "https://www.knhb.nl/app/uploads/2023/11/Verschillen-spelregels-veld-en-zaalhockey-2023-2024.pdf"
-            }
+            },
+            {
+                "names" : {
+                    "en": "Umpiring indoor",
+                    "nl": "Afspraken arbitrage indoor"
+                },
+                "url" : "https://www.knhb.nl/app/uploads/2024/12/Arbitrage-Afspraken-zaalhockey-seizoen-2024-2025.pdf"
+            },
         ]
     },
     {
@@ -736,7 +736,7 @@
                     "en": "FIH General Rules",
                     "nl": "FIH Algemene regels"
                 },
-                "url" : "http://www.fih.ch/media/13350505/fih-rules-of-hockey-jan2021-update.pdf"
+                "url" : "https://www.fih.hockey/static-assets/pdf/fih-rules-of-hockey-June23-update.pdf"
             },
             {
                 "names" : {
@@ -815,7 +815,7 @@
                     "en": "Championships",
                     "nl": "Kampioenschappen"
                 },
-                "url" : "https://www.cahockey.org.ar/media/reglamentos/CIRCULAR%2012-2019-REGLAMENTO%20%20GENERAL%20DE%20CAMPEONATOS%202019%20CAH_1-.pdf"
+                "url" : "https://www.cahockey.org.ar/media/reglamentos/CIRCULAR_13-2025-REGLAMENTO_DE_CAMPEONATOS_2025-_NORMAS_DE_JUEGO.pdf"
             },
             {
                 "names" : {
