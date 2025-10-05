@@ -44,14 +44,14 @@
                     "en": "Bluffer's Guide",
                     "nl": "Bluffer's Guide"
                 },
-                "url" : "https://cdn.revolutionise.com.au/cups/hockeyaus/files/n0d0xarrjzqfrgse.pdf"
+                "url" : "https://cdn.revolutionise.com.au/cups/hockeyaus/files/hc3yhgm1roaygxyh.pdf"
             },
             {
                 "names" : {
                     "en": "More",
                     "nl": "Meer"
                 },
-                "url" : "https://hockey.org.au"
+                "url" : "https://www.hockey.org.au/play/rules-of-hockey/"
             }
         ]
     },
@@ -102,14 +102,14 @@
                     "en": "Outdoor",
                     "nl": "Outdoor"
                 },
-                "url" : "https://hockey.be/wp-content/uploads/2023/10/Spelregels-Outdoor-2023-24.pdf"
+                "url" : "https://hockey.be/wp-content/uploads/2024/11/Spelregels-Outdoor-24-25.pdf"
             },
             {
                 "names" : {
                     "en": "Outdoor <U14",
                     "nl": "Outdoor <U14"
                 },
-                "url" : "https://hockey.be/wp-content/uploads/2021/08/Table-Parents-Umpires-NL-less-U14-v1.1052495.pdf"
+                "url" : "https://hockey.be/wp-content/uploads/2025/09/16.-Table-Parents-Umpires-NL-less-U14-v1.11-EXTERNAL.pdf"
             },
             {
                 "names" : {
@@ -130,49 +130,49 @@
                     "en": "Ladies",
                     "nl": "Ladies"
                 },
-                "url" : "https://hockey.be/wp-content/uploads/2019/11/Ladies-rules-NL-2019-2020.pdf"
+                "url" : "https://hockey.be/wp-content/uploads/2025/09/22.-Ladies-Rules-NL.pdf"
             },
             {
                 "names" : {
                     "en": "Gents",
                     "nl": "Gents"
                 },
-                "url" : "https://hockey.be/wp-content/uploads/2019/11/Gents-rules-NL-2019-2020.pdf"
+                "url" : "https://hockey.be/wp-content/uploads/2025/09/23.-Gents-Rules-NL.pdf"
             },
             {
                 "names" : {
                     "en": "More outdoor",
                     "nl": "Meer outdoor"
                 },
-                "url" : "https://hockey.be/nl/competitie/outdoor-hockey/spelregels-1/"
+                "url" : "https://hockey.be/nl/officials-division/spelregels-outdoor/"
             },
             {
                 "names" : {
                     "en": "Indoor",
                     "nl": "Indoor"
                 },
-                "url" : "https://hockey.be/wp-content/uploads/2021/11/BEL-Indoor-Rules-NL-2.pdf"
+                "url" : "https://hockey.be/wp-content/uploads/2025/01/BEL-Indoor-Rules-NL.pdf"
             },
             {
                 "names" : {
-                    "en": "Indoor U9-U12",
-                    "nl": "Indoor U9-U12"
+                    "en": "Indoor U8-U12",
+                    "nl": "Indoor U8-U12"
                 },
-                "url" : "https://hockey.be/wp-content/uploads/2019/12/Indoor-Spelregels-U9-U12-1.pdf"
+                "url" : "https://hockey.be/wp-content/uploads/2025/01/Indoor-Spelregels-U8-U12.pdf"
             },
             {
                 "names" : {
                     "en": "Indoor U14-U19",
                     "nl": "Indoor U14-U19"
                 },
-                "url" : "https://hockey.be/wp-content/uploads/2019/11/Indoor-Spelregels-U14-U19.pdf"
+                "url" : "https://hockey.be/wp-content/uploads/2023/11/Indoor-Spelregels-U14-U19.pdf"
             },
             {
                 "names" : {
                     "en": "More indoor",
                     "nl": "Meer indoor"
                 },
-                "url" : "https://hockey.be/nl/competitie/indoor-hockey/spelregels/"
+                "url" : "https://hockey.be/nl/officials-division/spelregels-indoor/"
             }
         ]
     },
